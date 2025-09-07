@@ -1,0 +1,701 @@
+sentence_id,dialect,sentence,tokens,pos_tags,token_count
+0,MSA,إنها في أخر القاعة . سوف آتي لك ببعض منها الآن . إذا أردت أي شيئاً آخر فقط أعلمني .,إنها في أخر القاعة . سوف آتي لك ببعض منها الآن . إذا أردت أي شيئاً آخر فقط أعلمني .,verb_pseudo prep adj noun punc part_fut verb prep adj noun adv punc conj_sub verb part noun adj adv verb punc,20
+2,MSA,هل تقومون بعمل تعديلات ؟,هل تقومون بعمل تعديلات ؟,part_interrog verb noun noun punc,5
+4,MSA,نريد مائدة بجانب النافذة .,نريد مائدة بجانب النافذة .,verb noun noun noun punc,5
+5,MSA,هناك ، أمام بيانات السائح تماما .,هناك ،/ أمام بيانات السائح تماما .,adv UNK prep noun noun adv punc,7
+9,MSA,لم اسمع بهذا العنوان من قبل بالقرب من هنا .,لم اسمع بهذا العنوان من قبل بالقرب من هنا .,part_neg verb pron_dem noun prep noun prep prep adv punc,10
+11,MSA,استمر في السير في هذا الطريق حتى تجد صيدلية .,استمر في السير في هذا الطريق حتى تجد صيدلية .,verb prep noun prep pron_dem noun conj_sub verb noun punc,10
+12,MSA,ما هو أحدث لون هذا الموسم .,ما هو أحدث لون هذا الموسم .,pron_interrog pron adj noun pron_dem noun punc,7
+14,MSA,في حالتي ، غالباً ما يكون من أجل العمل ونادراً ما يكون للاستمتاع .,في حالتي ، غالباً ما يكون من أجل العمل ونادراً ما يكون للاستمتاع .,prep noun punc adv adv verb prep prep noun adv adv verb noun punc,14
+15,MSA,سأقيم لمدة يومين .,سأقيم لمدة يومين .,verb noun noun punc,4
+16,MSA,أريد تمويج متقارب بشعري,أريد تمويج متقارب بشعري,verb noun adj noun,4
+17,MSA,أريد حجز غرفتين مزدوجتين .,أريد حجز غرفتين مزدوجتين .,verb noun noun adj punc,5
+18,MSA,لا أريد إزالتها .,لا أريد إزالتها .,part_neg verb noun punc,4
+19,MSA,هل هذه الحافلة تتوقف في شارع أستونر ؟,هل هذه الحافلة تتوقف في شارع أستونر ؟,part_interrog pron_dem noun verb prep noun noun_prop punc,8
+24,MSA,من فضلك افتح فمك على مداه .,من فضلك افتح فمك على مداه .,prep noun verb noun prep noun punc,7
+26,MSA,كم تكلفة الإفطار ؟,كم تكلفة الإفطار ؟,adv_interrog noun noun punc,4
+27,MSA,كيف أستطيع مساعدتك ؟,كيف أستطيع مساعدتك ؟,adv_interrog verb noun punc,4
+29,MSA,دعنا نأخذ قطعة لنأكلها .,دعنا نأخذ قطعة لنأكلها .,verb verb noun verb punc,5
+30,MSA,اتجه يسارا عند الناصية الثالثة .,اتجه يسارا عند الناصية الثالثة .,verb adv prep noun adj punc,6
+31,MSA,هل لك أن تقوم بتنظيف هذه الملابس ؟,هل لك أن تقوم بتنظيف هذه الملابس ؟,part_interrog prep conj_sub verb noun pron_dem noun punc,8
+37,MSA,أعطيك رقم تليفونه وعنوانه .,أعطيك رقم تليفونه وعنوانه .,verb noun noun noun punc,5
+38,MSA,لقد قمت بتسديد ثمن الوجبات ورسوم الفندق مقدماًً .,لقد قمت بتسديد ثمن الوجبات ورسوم الفندق مقدماًً .,part_verb verb noun noun noun noun noun adv punc,9
+40,MSA,أبحث عن مطعم جيد ، للمشويات . هل يمكنك أن تشير إلى أماكن تلك المطاعم على الخريطة ؟,أبحث عن مطعم جيد ، للمشويات . هل يمكنك أن تشير إلى أماكن تلك المطاعم على الخريطة ؟,verb prep noun adj punc noun punc part_interrog verb conj_sub verb prep noun pron_dem noun prep noun punc,18
+42,MSA,أنت تقوم بكسرها ، فأنت الذي اشتريتها .,أنت تقوم بكسرها ، فأنت الذي اشتريتها .,pron verb noun punc pron pron_rel verb punc,8
+46,MSA,سوف أخبرها بأن تتصل بك بمجرد أن تصل .,سوف أخبرها بأن تتصل بك بمجرد أن تصل .,part_fut verb conj_sub verb prep noun conj_sub verb punc,9
+50,MSA,هل تحب أن تضع قشدة وسكر في قهوتك ؟,هل تحب أن تضع قشدة وسكر في قهوتك ؟,part_interrog verb conj_sub verb noun noun prep noun punc,9
+51,MSA,لقد أصيبت إصابة بالغة .,لقد أصيبت إصابة بالغة .,part_verb verb noun adj punc,5
+52,MSA,أريد قداحة .,أريد قداحة .,verb noun punc,3
+53,MSA,هل لدى هذا الفندق تجهيزات للمؤتمرات ؟,هل لدى هذا الفندق تجهيزات للمؤتمرات ؟,part_interrog prep pron_dem noun noun noun punc,7
+56,MSA,هل من المناسب أن نتناول وجبة خفيفة ؟,هل من المناسب أن نتناول وجبة خفيفة ؟,part_interrog prep adj conj_sub verb noun adj punc,8
+57,MSA,أنا أتصل من المطار . سأصل هناك في حوالي الساعة الرابعة .,أنا أتصل من المطار . سأصل هناك في حوالي الساعة الرابعة .,pron verb prep noun punc verb adv prep noun_quant noun adj punc,12
+62,MSA,أين سأغير إلى شيكاغو .,أين سأغير إلى شيكاغو .,adv_interrog verb prep noun_prop punc,5
+63,MSA,كم تكلفة إرسال خطاب مسجل إلى فرنسا ؟,كم تكلفة إرسال خطاب مسجل إلى فرنسا ؟,pron_interrog noun noun noun adj prep noun_prop punc,8
+64,MSA,هل يمكنكم صرف الشيك ذو المائتي دولار الخاص بي ؟,هل يمكنكم صرف الشيك ذو المائتي دولار الخاص بي ؟,part_interrog verb noun noun noun noun_num noun adj prep punc,10
+68,MSA,إن القيادة على الجانب الأيمن من الطريق مختلفة تماماً بالفعل .,إن القيادة على الجانب الأيمن من الطريق مختلفة تماماً بالفعل .,conj_sub noun prep noun adj prep noun adj adv adv punc,11
+69,MSA,كان الممثل رائعا بالفعل .,كان الممثل رائعا بالفعل .,verb_pseudo noun adj adv punc,5
+72,MSA,أين الجانب غير الخيالي في شخصيتك ؟,أين الجانب غير الخيالي في شخصيتك ؟,adv_interrog noun adv adj prep noun punc,7
+74,MSA,إذا حدث ذلك ، من فضلك أتصل بي .,إذا حدث ذلك ، من فضلك أتصل بي .,conj_sub verb pron_dem punc prep noun verb prep punc,9
+78,MSA,هل يمكن أن تغير مقعدي من فضلك ؟,هل يمكن أن تغير مقعدي من فضلك ؟,part_interrog verb conj_sub verb noun prep noun punc,8
+79,MSA,هل هناك ضمانا ؟,هل هناك ضمانا ؟,part_interrog adv noun punc,4
+83,MSA,"عفوا , أنا سأعتني بالكلب .","عفوا , أنا سأعتني بالكلب .",interj punc pron verb noun punc,6
+84,MSA,أريد تذكرتين للقطط ليوم الخميس .,أريد تذكرتين للقطط ليوم الخميس .,verb noun noun noun noun punc,6
+86,MSA,أين المقهى ؟,أين المقهى ؟,adv_interrog noun punc,3
+87,MSA,أريد جاكيت للأطفال .,أريد جاكيت للأطفال .,verb noun noun punc,4
+89,MSA,اسمك مرة ثانية ؟,اسمك مرة ثانية ؟,noun noun adj punc,4
+90,MSA,هل مستر برون هناك ؟,هل مستر برون هناك ؟,part_interrog noun noun_prop adv punc,5
+91,MSA,حسنا . إنها تتكلف خمسة وثمانون دولارا في البريد العادي وثلاثة دولارات في التوصيل الخاص .,حسنا . إنها تتكلف خمسة وثمانون دولارا في البريد العادي وثلاثة دولارات في التوصيل الخاص .,noun punc verb_pseudo verb noun_num noun_num noun prep noun adj noun_num noun prep noun adj punc,16
+92,MSA,هل يمكن أن أؤجر قارب ليوم ؟,هل يمكن أن أؤجر قارب ليوم ؟,part_interrog verb conj_sub verb noun noun punc,7
+93,MSA,عند أي نافذة يمكن أن أقوم بعمل الحجز ؟,عند أي نافذة يمكن أن أقوم بعمل الحجز ؟,prep pron_interrog noun verb conj_sub verb noun noun punc,9
+94,MSA,ما هذا ؟,ما هذا ؟,pron_interrog pron_dem punc,3
+96,MSA,هل يمكنك أن تخبريني كيف أستطيع أن أصل إلى الأوبرا ؟,هل يمكنك أن تخبريني كيف أستطيع أن أصل إلى الأوبرا ؟,part_interrog verb conj_sub verb adv_interrog verb conj_sub verb prep noun_prop punc,11
+97,MSA,ألم تكن مخمور بدرجة كبيرة بعض الشيء في الليلة الماضية يا عزيزي ؟,ألم تكن مخمور بدرجة كبيرة بعض الشيء في الليلة الماضية يا عزيزي ؟,part_interrog verb adj noun adj noun noun prep noun adj part_voc adj punc,13
+98,MSA,من فضلك اتبع التعليمات الصادرة من موظفينا .,من فضلك اتبع التعليمات الصادرة من موظفينا .,prep noun verb noun adj prep noun punc,8
+100,MSA,هل يوجد هنا محل متعدد الأقسام بالقرب من هنا .,هل يوجد هنا محل متعدد الأقسام بالقرب من هنا .,part_interrog verb adv noun adj noun noun prep adv punc,10
+102,MSA,املأ خزان الوقود من فضلك .,املأ خزان الوقود من فضلك .,verb noun noun prep noun punc,6
+103,MSA,هل يوجد غرفة بسعر أرخص ؟,هل يوجد غرفة بسعر أرخص ؟,part_interrog verb noun noun adj punc,6
+104,MSA,أفضل سيارة بها نظام إلي لنقل الحركة .,أفضل سيارة بها نظام إلي لنقل الحركة .,verb noun prep noun prep noun noun punc,8
+105,MSA,سأقيم في مسكن الطلبة الخاص بجامعة هارفارد .,سأقيم في مسكن الطلبة الخاص بجامعة هارفارد .,verb prep noun noun adj noun noun_prop punc,8
+106,MSA,ما هو سعر الصرف اليوم ؟,ما هو سعر الصرف اليوم ؟,pron_interrog pron noun noun noun punc,6
+108,MSA,أعاني بشكل مزمن من الربو .,أعاني بشكل مزمن من الربو .,verb noun adj prep noun punc,6
+109,MSA,معي حوالي ثلاثة آلاف دولاراً .,معي حوالي ثلاثة آلاف دولاراً .,prep noun_quant noun noun noun punc,6
+111,MSA,حسناً ، سيدي . فقد أتت بخيارين مقليات فرنسية أو أرز بالتوابل واللحم ، أيهما تحب ؟,حسناً ، سيدي . فقد أتت بخيارين مقليات فرنسية أو أرز بالتوابل واللحم ، أيهما تحب ؟,interj punc noun punc part_verb verb noun noun adj conj noun noun noun punc pron_interrog verb punc,17
+112,MSA,كيف أصل إلى ذلك المكان ؟,كيف أصل إلى ذلك المكان ؟,adv_interrog verb prep pron_dem noun punc,6
+113,MSA,أي نوع من القصص هي ؟,أي نوع من القصص هي ؟,pron_interrog noun prep noun pron punc,6
+115,MSA,ثلاث مرات .,ثلاث مرات .,noun_num noun punc,3
+116,MSA,أي نافذة تبيع الطوابع ؟,أي نافذة تبيع الطوابع ؟,pron_interrog noun verb noun punc,5
+117,MSA,بعد أن هاجمني ، هرب في شاحنة بيضاء .,بعد أن هاجمني ، هرب في شاحنة بيضاء .,noun conj_sub verb punc verb prep noun adj punc,9
+119,MSA,حسنا . من فضلك احتفظ بهذه القسيمة وقدمها عندما تقوم بالاختيار .,حسنا . من فضلك احتفظ بهذه القسيمة وقدمها عندما تقوم بالاختيار .,noun punc prep noun verb pron_dem noun verb adv verb noun punc,12
+120,MSA,كنت سأشتري هذا إن كنت في مكانك ؟,كنت سأشتري هذا إن كنت في مكانك ؟,verb verb pron_dem conj verb prep noun punc,8
+122,MSA,مائتي دولار . فوري أم عبر البطاقات الائتمانية .,مائتي دولار . فوري أم عبر البطاقات الائتمانية .,noun noun punc adj conj prep noun adj punc,9
+125,MSA,كم من الوقت تستغرق السفينة لعبور هذا المحيط ؟,كم من الوقت تستغرق السفينة لعبور هذا المحيط ؟,adv_interrog prep noun verb noun noun pron_dem noun punc,9
+128,MSA,هل علىّ أن أتجنب أنواع معينة من الطعام خلال فترة تناولي هذا الدواء ؟,هل علىّ أن أتجنب أنواع معينة من الطعام خلال فترة تناولي هذا الدواء ؟,part_interrog prep conj_sub verb noun adj prep noun prep noun noun pron_dem noun punc,14
+129,MSA,هل لديك أحذية حريمي عند أصابع القدم ؟,هل لديك أحذية حريمي عند أصابع القدم ؟,part_interrog prep noun adj prep noun noun punc,8
+130,MSA,هل ستواجهني أية صعوبات في الجمارك ؟,هل ستواجهني أية صعوبات في الجمارك ؟,part_interrog verb pron_interrog noun prep noun punc,7
+131,MSA,هل لي ببعض النبيذ الأحمر ؟,هل لي ببعض النبيذ الأحمر ؟,part_interrog prep adj noun adj punc,6
+133,MSA,أخبرني عندما نصل إلى المتحف .,أخبرني عندما نصل إلى المتحف .,verb conj_sub verb prep noun punc,6
+134,MSA,هل يذهب هذا الأتوبيس إلى فندق الشيراتون .,هل يذهب هذا الأتوبيس إلى فندق الشيراتون .,part_interrog verb pron_dem noun prep noun noun_prop punc,8
+135,MSA,إلى أي شيء وصل ذلك الأمر ؟,إلى أي شيء وصل ذلك الأمر ؟,prep part noun verb pron_dem noun punc,7
+136,MSA,إنه ساخن بدرجة بسيطة . هل يمكن أن أفتح النافذة ؟,إنه ساخن بدرجة بسيطة . هل يمكن أن أفتح النافذة ؟,pron_dem adj noun adj punc part_interrog verb conj_sub verb noun punc,11
+138,MSA,فقط دش يكفي .,فقط دش يكفي .,adv noun verb punc,4
+139,MSA,عيني محمرة قليلا .,عيني محمرة قليلا .,noun adj adj punc,4
+140,MSA,لا ، هل لي أن أقترح أخذ غرفة ذات سريرين للاستخدام الفردي ؟ فنحن لدينا واحدة .,لا ، هل لي أن أقترح أخذ غرفة ذات سريرين للاستخدام الفردي ؟ فنحن لدينا واحدة .,part_neg punc part_interrog prep conj_sub verb verb noun noun noun noun adj punc pron prep adj punc,17
+142,MSA,لا أستطيع تأكيد ذلك لكنا سنبذل قصارى جهدنا .,لا أستطيع تأكيد ذلك لكنا سنبذل قصارى جهدنا .,part_neg verb noun pron_dem conj verb adj noun punc,9
+143,MSA,أريد تمويج متقارب لشعري ، من فضلك .,أريد تمويج متقارب لشعري ، من فضلك .,verb noun adj noun punc prep noun punc,8
+144,MSA,كان البحر إلى الأسفل من بعيد .,كان البحر إلى الأسفل من بعيد .,verb_pseudo noun prep adj prep adj punc,7
+145,MSA,هي تريد بيرة .,هي تريد بيرة .,pron verb noun punc,4
+146,MSA,أنت بحاجة إلى إجراء عملية .,أنت بحاجة إلى إجراء عملية .,pron noun prep noun noun punc,6
+147,MSA,المزيد من البيض من فضلك .,المزيد من البيض من فضلك .,adj prep noun prep noun punc,6
+148,MSA,أين محطة الأتوبيس المتجه إلى سنترال بارك ؟,أين محطة الأتوبيس المتجه إلى سنترال بارك ؟,adv_interrog noun noun adj prep noun noun punc,8
+149,MSA,سيارة أجرة ؟,سيارة أجرة ؟,noun noun punc,3
+151,MSA,ها هو مفتاحك ، يا سيدي . غرفة ستة وخمسون إثنى عشر .,ها هو مفتاحك ، يا سيدي . غرفة ستة وخمسون إثنى عشر .,pron_dem pron noun punc part_voc noun punc noun noun_num noun_num noun_num noun_num punc,13
+153,MSA,أحب الجاكت الخاص بك .,أحب الجاكت الخاص بك .,verb noun adj prep punc,5
+154,MSA,استمر .,استمر .,verb punc,2
+155,MSA,ها نحن قد وصلنا هذا هو فندقك .,ها نحن قد وصلنا هذا هو فندقك .,pron_dem pron part_verb verb pron_dem pron noun punc,8
+156,MSA,متى بدأت مباراة كرة السلة ؟,متى بدأت مباراة كرة السلة ؟,adv_interrog verb noun noun noun punc,6
+157,MSA,صباح الخير . كيف حالك .,صباح الخير . كيف حالك .,noun noun punc adv_interrog noun punc,6
+158,MSA,أسف أنني بحاجة إلى أن أطلع على أي مستند لتحديد الهوية .,أسف أنني بحاجة إلى أن أطلع على أي مستند لتحديد الهوية .,noun conj_sub noun prep conj_sub verb prep noun_quant noun noun noun punc,12
+159,MSA,ماذا كان انطباعك ؟,ماذا كان انطباعك ؟,pron_interrog verb_pseudo noun punc,4
+160,MSA,بالتأكيد . هل ترغب في تناول القهوة مع العشاء أم بعد ذلك ؟,بالتأكيد . هل ترغب في تناول القهوة مع العشاء أم بعد ذلك ؟,adv punc part_interrog verb prep noun noun prep noun conj prep pron_dem punc,13
+161,MSA,إنني سأستقل الرحلة الجوية رقم اثنى عشر المتجهة إلى طوكيو .,إنني سأستقل الرحلة الجوية رقم اثنى عشر المتجهة إلى طوكيو .,conj verb noun adj noun noun_num noun_num adv prep noun_prop punc,11
+162,MSA,أود إجراء مكالمة دولية ، من فضلك ؟,أود إجراء مكالمة دولية ، من فضلك ؟,verb noun noun adj punc prep noun punc,8
+0,Beirut,هوي بأخر الصالة . رح جبلك شوي هلأ. إذا بدك شي تاني، بس عطيني خبر.,هوي بأخر الصالة . رح جبلك شوي هلأ . إذا بدك شي تاني ، بس عطيني خبر .,pron adj noun punc part_fut verb adj adv punc conj_sub verb noun adj punc adv verb noun punc,18
+2,Beirut,بتعمل تعديلات؟,بتعمل تعديلات ؟,verb noun punc,3
+4,Beirut,بدنا طاولة حد الشباك .,بدنا طاولة حد الشباك .,verb noun noun noun punc,5
+5,Beirut,صار هونيك، بالظبط قدام مكتب استعلامات السياح.,صار هونيك ، بالظبط قدام مكتب استعلامات السياح .,verb adv punc adv prep noun noun noun punc,9
+9,Beirut,بعمري ما سمعت بهالعنوان هون .,بعمري ما سمعت بهالعنوان هون .,noun part_neg verb noun adj punc,6
+11,Beirut,روح دغري لحتى تشوف صيدلية.,روح دغري لحتى تشوف صيدلية .,verb adv conj_sub verb noun punc,6
+12,Beirut,شو هوي أجد لون لهالموسم؟,شو هوي أجد لون لهالموسم ؟,pron_interrog pron adj noun noun punc,6
+14,Beirut,بحالتي، عادة بيكون شغل، وقليل ليكون كرمال الترفيه.,بحالتي ، عادة بيكون شغل ، وقليل ليكون كرمال الترفيه .,noun punc adv verb noun punc adv verb prep noun punc,11
+15,Beirut,رح إبقى يومين.,رح إبقى يومين .,part_fut verb noun punc,4
+16,Beirut,بدي كيرلي ضيق.,بدي كيرلي ضيق .,verb noun adj punc,4
+17,Beirut,حابب إحجز أوضتين بتختين.,حابب إحجز أوضتين بتختين .,verb verb noun noun punc,5
+18,Beirut,ما بدي ياه منزوع.,ما بدي ياه منزوع .,part_neg verb pron adj punc,5
+19,Beirut,هيدا الباص بيوقف بشارع ستونر؟,هيدا الباص بيوقف بشارع ستونر ؟,pron_dem noun verb noun noun_prop punc,6
+24,Beirut,عمول معروف فتاح تمك عالواسع.,عمول معروف فتاح تمك عالواسع .,verb noun verb noun adv punc,6
+26,Beirut,أدي حق الترويقة؟,أدي حق الترويقة ؟,adv_interrog noun noun punc,4
+27,Beirut,كيف فيني ساعدك؟,كيف فيني ساعدك ؟,adv_interrog prep verb punc,4
+29,Beirut,تعوا ناكل لقمة.,تعوا ناكل لقمة .,verb verb noun punc,4
+30,Beirut,روح شمال عالزاوية التالتة.,روح شمال عالزاوية التالتة .,verb adv noun adj punc,5
+31,Beirut,بتنضف هالتياب؟,بتنضف هالتياب ؟,verb noun punc,3
+37,Beirut,أنا بعطيك رقم تلفونو و عنوانو.,أنا بعطيك رقم تلفونو و عنوانو .,pron verb noun noun conj noun punc,7
+38,Beirut,أنا دفعت وجبات الأكل و مصاريف الأوتيل من قبل.,أنا دفعت وجبات الأكل و مصاريف الأوتيل من قبل .,pron verb noun noun conj noun noun prep noun punc,10
+40,Beirut,عمفتش على مطعم رايق و حلو للشوي . بتحط عليهن إشارة عهالخريطة؟,عمفتش على مطعم رايق و حلو للشوي . بتحط عليهن إشارة عهالخريطة ؟,verb prep noun adj conj adj noun punc verb prep noun noun punc,13
+42,Beirut,إذا كسرته، تشتريه.,إذا كسرته ، تشتريه .,conj_sub verb punc verb punc,5
+46,Beirut,رح قلا تدقلك شي إنو ترجع.,رح قلا تدقلك شي إنو ترجع .,part_fut verb verb noun conj_sub verb punc,7
+50,Beirut,عبالك كريمة و سكر بقهوتك؟,عبالك كريمة و سكر بقهوتك ؟,noun noun conj noun noun punc,6
+51,Beirut,هيي عنجد منصابة.,هيي عنجد منصابة .,pron adv noun punc,4
+52,Beirut,بدي قداحة.,بدي قداحة .,verb noun punc,3
+53,Beirut,هالأوتيل عندو تجهيزات لمؤتمر؟,هالأوتيل عندو تجهيزات لمؤتمر ؟,noun prep noun noun punc,5
+56,Beirut,معليش إذا أخدنا وجبة خفيفة؟,معليش إذا أخدنا وجبة خفيفة ؟,interj conj_sub verb noun adj punc,6
+57,Beirut,عمبتصل من المطار . رح كون هونيك حوالي الأربعة.,عمبتصل من المطار . رح كون هونيك حوالي الأربعة .,verb prep noun punc part_fut verb adv noun_quant noun_num punc,10
+62,Beirut,وين بنقل على شيكاغو؟,وين بنقل على شيكاغو ؟,adv_interrog verb prep noun_prop punc,5
+63,Beirut,أدي حق رسالة مسجلة لتنبعت على فرنسا؟,أدي حق رسالة مسجلة لتنبعت على فرنسا ؟,pron_interrog noun noun adj verb prep noun_prop punc,8
+64,Beirut,فيك تصرفلي الشيك تبعي تبع المتين دولار؟,فيك تصرفلي الشيك تبعي تبع المتين دولار ؟,prep verb noun noun prep noun_num noun punc,8
+68,Beirut,عنجد كتيرمختلفة السواقة عالميلة اليمين من الشارع.,عنجد كتيرمختلفة السواقة عالميلة اليمين من الشارع .,adv adj noun noun noun prep noun punc,8
+69,Beirut,الممثل عنجد بيعقد.,الممثل عنجد بيعقد .,noun adv verb punc,4
+72,Beirut,وين القسم تبعك اللي مش خيالي؟,وين القسم تبعك اللي مش خيالي ؟,adv_interrog noun noun pron_dem part_neg adj punc,7
+74,Beirut,إذا لازم يبين، عمل معروف دقلي.,إذا لازم يبين ، عمل معروف دقلي .,conj_sub verb verb punc verb noun verb punc,8
+78,Beirut,فيك تغيرلي مقعدي؟,فيك تغيرلي مقعدي ؟,prep verb noun punc,4
+79,Beirut,في كقالة؟,في كقالة ؟,prep noun punc,3
+83,Beirut,بعتذر، رح إهتم بالكلب.,بعتذر ، رح إهتم بالكلب .,verb punc part_fut verb noun punc,6
+84,Beirut,"بدي بطاقتين لل ""بسينات""، لهالخميس.","بدي بطاقتين لل "" بسينات "" ، لهالخميس .",verb noun prep punc noun_prop punc punc noun punc,9
+86,Beirut,وين القهوة؟,وين القهوة ؟,adv_interrog noun punc,3
+87,Beirut,بدي كنزة للولاد.,بدي كنزة للولاد .,verb noun noun punc,4
+89,Beirut,إسمك مرة تاني؟,إسمك مرة تاني ؟,noun noun adj punc,4
+90,Beirut,إستاذ براون هون؟,إستاذ براون هون ؟,noun noun_prop adj punc,4
+91,Beirut,أوك، بيكلف خمس و تمانين سنت للإيميل العادي و تلاتي دولار بالظبط زيادة للتوصيل الخاص.,أوك ، بيكلف خمس و تمانين سنت للإيميل العادي و تلاتي دولار بالظبط زيادة للتوصيل الخاص .,noun punc verb noun_num conj noun_num noun noun adj prep noun_num noun adv noun noun adj punc,17
+92,Beirut,فيني إستأجر يخت ليوم واحد؟,فيني إستأجر يخت ليوم واحد ؟,part_interrog verb noun noun noun_num punc,6
+93,Beirut,عأي شباك فيني إحجز؟,عأي شباك فيني إحجز ؟,noun_quant noun prep verb punc,5
+94,Beirut,شو هيدا؟,شو هيدا ؟,part_interrog pron_dem punc,3
+96,Beirut,فيك تقلي كيف بوصل عالأوبيرا؟,فيك تقلي كيف بوصل عالأوبيرا ؟,prep verb adv_interrog verb noun_prop punc,6
+97,Beirut,ما كنت مبارح سكران شوي، حبيبي؟,ما كنت مبارح سكران شوي ، حبيبي ؟,part_neg verb noun adj noun punc noun punc,8
+98,Beirut,اذا بتريد لحاق التعليمات من فريقنا .,اذا بتريد لحاق التعليمات من فريقنا .,conj_sub verb noun noun prep noun punc,7
+100,Beirut,في محل شامل قريب من هون؟,في محل شامل قريب من هون ؟,prep noun adj adj prep adv punc,7
+102,Beirut,فولا، إذا بتريد.,فولا ، إذا بتريد .,interj punc conj_sub verb punc,5
+103,Beirut,في أوضة أرخص؟,في أوضة أرخص ؟,prep noun adj punc,4
+104,Beirut,بفضل سيارة أوتوماتيك.,بفضل سيارة أوتوماتيك .,verb noun adj punc,4
+105,Beirut,رح إبقى بالفوا ييه تبع جامعة هارفرد.,رح إبقى بالفوا ييه تبع جامعة هارفرد .,part_fut verb noun noun prep noun noun_prop punc,8
+106,Beirut,شو هوي المعدل تبع اليوم؟,شو هوي المعدل تبع اليوم ؟,part_interrog pron noun prep noun punc,6
+108,Beirut,عندي ربو مزمن.,عندي ربو مزمن .,prep noun adj punc,4
+109,Beirut,معي حوالي تلات تلاف دولار.,معي حوالي تلات تلاف دولار .,prep noun_quant noun_num noun noun punc,6
+111,Beirut,ماشي، إستاذ. بيجي معو بطاطا مقلية أو رز بالبيلاف. أياهن بتحب؟,ماشي ، إستاذ . بيجي معو بطاطا مقلية أو رز بالبيلاف . أياهن بتحب ؟,interj punc noun punc verb prep noun adj conj noun noun punc pron_interrog verb punc,15
+112,Beirut,كيف بوصل لهالمطرح؟,كيف بوصل لهالمطرح ؟,adv_interrog verb noun punc,4
+113,Beirut,شو نوع القصة؟,شو نوع القصة ؟,part_interrog noun noun punc,4
+115,Beirut,تلات مرات.,تلات مرات .,noun_num noun punc,3
+116,Beirut,أي شباك ببيع طوابع؟,أي شباك ببيع طوابع ؟,adv_interrog noun verb noun punc,5
+117,Beirut,من بعد ما هاجمني، ساق لبعيد بفان أبيض.,من بعد ما هاجمني ، ساق لبعيد بفان أبيض .,prep noun conj_sub verb punc verb adj noun adj punc,10
+119,Beirut,تمام. عمول معروف خلي هالعلامة و قدما بس بدك تجي تاخدا.,تمام . عمول معروف خلي هالعلامة و قدما بس بدك تجي تاخدا .,noun punc verb noun verb noun conj verb adv verb verb verb punc,13
+120,Beirut,كنت بشتري هيدا إذا أنا كنت محلك.,كنت بشتري هيدا إذا أنا كنت محلك .,verb verb pron_dem conj_sub pron verb noun punc,8
+122,Beirut,متين دولار . نقدي أو بالبطاقة؟,متين دولار . نقدي أو بالبطاقة ؟,noun noun punc adj conj noun punc,7
+125,Beirut,أدي طول الحمولة فوق هيدي البركة؟,أدي طول الحمولة فوق هيدي البركة ؟,adv_interrog noun noun noun pron_dem noun punc,7
+128,Beirut,لازم إتجنب أي نوع من الأكل أنا و عمباخد هالدوا؟,لازم إتجنب أي نوع من الأكل أنا و عمباخد هالدوا ؟,verb verb part noun prep noun pron conj verb noun punc,11
+129,Beirut,رح يكون في شي صعوبات مع الجمارك؟,رح يكون في شي صعوبات مع الجمارك ؟,part_fut verb prep noun noun prep noun punc,8
+130,Beirut,عندك صبابط رسمي تبع الأصابيع العراض؟,عندك صبابط رسمي تبع الأصابيع العراض ؟,prep noun adj prep noun adj punc,7
+131,Beirut,فيي أخد شوية نبيد أحمر؟,فيي أخد شوية نبيد أحمر ؟,verb verb noun noun adj punc,6
+133,Beirut,قلي بس نوصل عالمتحف .,قلي بس نوصل عالمتحف .,verb conj_sub verb noun punc,5
+134,Beirut,هالباص بيروح عأوتيل الشيراتون؟,هالباص بيروح عأوتيل الشيراتون ؟,noun verb noun noun_prop punc,5
+135,Beirut,لشو بيصير هيدا؟,لشو بيصير هيدا ؟,part_interrog verb pron_dem punc,4
+136,Beirut,في شوية شوب. فيي إفتح الشباك؟,في شوية شوب . فيي إفتح الشباك ؟,prep noun noun punc verb verb noun punc,8
+138,Beirut,بس دوش تمام .,بس دوش تمام .,adv noun noun punc,4
+139,Beirut,عينيي مدممين.,عينيي مدممين .,noun adj punc,3
+140,Beirut,لاء . بد هيك فيي إقترح أوضة بتختين لإستخدام شخص؟ عنا واحدة.,لاء . بد هيك فيي إقترح أوضة بتختين لإستخدام شخص ؟ عنا واحدة .,part_neg punc verb adv verb verb noun noun noun noun punc prep adj punc,14
+142,Beirut,ما فيي أضمن هيدا، بس رح نعمل جهدنا.,ما فيي أضمن هيدا ، بس رح نعمل جهدنا .,part_neg verb verb pron_dem punc conj part_fut verb noun punc,10
+143,Beirut,بدي كيرلي ضيق، إذا بتريد.,بدي كيرلي ضيق ، إذا بتريد .,verb noun adj punc conj_sub verb punc,7
+144,Beirut,البحر نشاف أقل لتحت بكتير.,البحر نشاف أقل لتحت بكتير .,noun verb adj_comp noun adj punc,6
+145,Beirut,بدا بيرة .,بدا بيرة .,verb noun punc,3
+146,Beirut,لازمك عملية.,لازمك عملية .,verb noun punc,3
+147,Beirut,زيادة بيض، عمول معروف.,زيادة بيض ، عمول معروف .,noun noun punc verb noun punc,6
+148,Beirut,وين محطة الباص للسنترال بارك؟,وين محطة الباص للسنترال بارك ؟,adv_interrog noun noun noun_prop noun_prop punc,6
+149,Beirut,عربيات تاكسي؟,عربيات تاكسي ؟,noun noun punc,3
+151,Beirut,هيدا مفتاحك، إستاذ. أوضة ستة و خمسين تنعش.,هيدا مفتاحك ، إستاذ . أوضة ستة و خمسين تنعش .,pron_dem noun punc noun punc noun noun_num conj noun_num noun_num punc,11
+153,Beirut,بحب كنزتك.,بحب كنزتك .,verb noun punc,3
+154,Beirut,تفضل.,تفضل .,verb punc,2
+155,Beirut,نحنا هون . هيدا هوي الأوتيل تبعك.,نحنا هون . هيدا هوي الأوتيل تبعك .,pron adv punc pron_dem pron noun prep punc,8
+156,Beirut,أمتين بيبلش ماتش الباسكيت؟,أمتين بيبلش ماتش الباسكيت ؟,adv_interrog verb noun noun punc,5
+157,Beirut,صباحو . كيفك؟,صباحو . كيفك ؟,noun punc adv_interrog punc,4
+158,Beirut,للأسف محتاج اشوف أي اثبات شخصية.,للأسف محتاج اشوف أي اثبات شخصية .,noun adj verb noun_quant noun noun punc,7
+159,Beirut,شو كان إنطباعك؟,شو كان إنطباعك ؟,part_interrog verb noun punc,4
+160,Beirut,أكيد. بتحب قهوتك مع عشاك أو بعدان؟,أكيد . بتحب قهوتك مع عشاك أو بعدان ؟,adj punc verb noun prep noun conj adv punc,9
+161,Beirut,أخد الرحلة تنعش لطوكيو .,أخد الرحلة تنعش لطوكيو .,verb noun noun_num noun_prop punc,5
+162,Beirut,بدي تلفن لمحل بعيد، عمول معروف.,بدي تلفن لمحل بعيد ، عمول معروف .,verb verb noun adj punc verb noun punc,8
+0,Cairo,هو في اخر القاعة . أنا حأجيبلك شويه دلوقتي . لو محتاج حاجة تانية، قولي.,هو في اخر القاعة . أنا حأجيبلك شويه دلوقتي . لو محتاج حاجة تانية ، قولي .,pron prep adj_comp noun punc pron verb noun adv punc conj_sub adj noun adj punc verb punc,17
+2,Cairo,بتعمل تبديلات؟,بتعمل تبديلات ؟,verb noun punc,3
+4,Cairo,عايزين ترابيزة جنب الشباك .,عايزين ترابيزة جنب الشباك .,adj noun noun noun punc,5
+5,Cairo,ده قدامك هناك، يادوبك قدام مكتب استعلامات السياحة .,ده قدامك هناك ، يادوبك قدام مكتب استعلامات السياحة .,pron_dem prep adv punc adv prep noun noun noun punc,10
+9,Cairo,عمري ما سمعت عن العنوان ده هنا .,عمري ما سمعت عن العنوان ده هنا .,noun part_neg verb prep noun pron_dem adv punc,8
+11,Cairo,أمشي علطول لحد ما تلقي صيدلية.,أمشي علطول لحد ما تلقي صيدلية .,verb adv conj_sub conj_sub verb noun punc,7
+12,Cairo,ايه اجدد لون في الموسم ده؟,ايه اجدد لون في الموسم ده ؟,pron_interrog adj_comp noun prep noun pron_dem punc,7
+14,Cairo,في الحالة بتاعتي، بيبقى عادة شغل، وقليل جدا ترفيه.,في الحالة بتاعتي ، بيبقى عادة شغل ، وقليل جدا ترفيه .,prep noun prep punc verb adv noun punc adj adv noun punc,12
+15,Cairo,هقعد يومين .,هقعد يومين .,verb noun punc,3
+16,Cairo,انا عايز اعمل كيرلي جامد.,انا عايز اعمل كيرلي جامد .,pron adj verb noun adj punc,6
+17,Cairo,عايز احجز اوضتين بسريرين .,عايز احجز اوضتين بسريرين .,adj verb noun noun punc,5
+18,Cairo,انا مش عايزه منزوع.,انا مش عايزه منزوع .,pron part_neg adj adj punc,5
+19,Cairo,الأوتوبيس ده حيقف في شارع ستونر؟,الأوتوبيس ده حيقف في شارع ستونر ؟,noun pron_dem verb prep noun noun_prop punc,7
+24,Cairo,من فضلك افتح بقك جامد.,من فضلك افتح بقك جامد .,prep noun verb noun adv punc,6
+26,Cairo,بكام الفطار؟,بكام الفطار ؟,adv_interrog noun punc,3
+27,Cairo,ازاي أقدر اساعدك؟,ازاي أقدر اساعدك ؟,adv_interrog verb verb punc,4
+29,Cairo,خلينا ناكل لقمة.,خلينا ناكل لقمة .,verb verb noun punc,4
+30,Cairo,احود شمال عند الناصية التالته.,احود شمال عند الناصية التالته .,verb adv prep noun adj punc,6
+31,Cairo,ممكن تنضف الهدوم ديه؟,ممكن تنضف الهدوم ديه ؟,adj verb noun pron_dem punc,5
+37,Cairo,انا اديتك تليفونه و عنوانه.,انا اديتك تليفونه و عنوانه .,pron verb noun conj noun punc,6
+38,Cairo,انا دفعت مقدما حساب الفندق و الاكل.,انا دفعت مقدما حساب الفندق و الاكل .,pron verb adv noun noun conj noun punc,8
+40,Cairo,بأدور على حاتي كويس ويكون هادي. ممكن توريني مكانهم عالخريطة دي؟,بأدور على حاتي كويس ويكون هادي . ممكن توريني مكانهم عالخريطة دي ؟,verb prep noun adj verb adj punc adj verb noun noun pron_dem punc,13
+42,Cairo,اللي تكسره، تشتريته.,اللي تكسره ، تشتريته .,pron_rel verb punc verb punc,5
+46,Cairo,حأبلغها تكلمك اول ما ترجع.,حأبلغها تكلمك اول ما ترجع .,verb verb noun conj_sub verb punc,6
+50,Cairo,تحب كريمة و سكر في قهوتك؟,تحب كريمة و سكر في قهوتك ؟,verb noun conj noun prep noun punc,7
+51,Cairo,هي متعورة جامد.,هي متعورة جامد .,pron adj adv punc,4
+52,Cairo,عاوز ولاعة.,عاوز ولاعة .,adj noun punc,3
+53,Cairo,فيه في الفندق ده تجهيزات للمؤتمرات؟,فيه في الفندق ده تجهيزات للمؤتمرات ؟,prep prep noun pron_dem noun noun punc,7
+56,Cairo,حيكون كويس لو اخدنا وجبة خفيفة؟,حيكون كويس لو اخدنا وجبة خفيفة ؟,verb adj conj_sub verb noun adj punc,7
+57,Cairo,انا بأكلمك من المطار . حأكون هناك حوالي اربعه.,انا بأكلمك من المطار . حأكون هناك حوالي اربعه .,pron verb prep noun punc verb adv noun_quant noun_num punc,10
+62,Cairo,من فين أقدر أروح لشيكاجو؟,من فين أقدر أروح لشيكاجو ؟,prep adv_interrog verb verb noun_prop punc,6
+63,Cairo,بكام أقدر ابعت جواب مسجل لفرنسا؟,بكام أقدر ابعت جواب مسجل لفرنسا ؟,adv_interrog verb verb noun adj noun_prop punc,7
+64,Cairo,ممكن تصرفلي شيك بميتين دولار؟,ممكن تصرفلي شيك بميتين دولار ؟,adj verb noun noun_num noun punc,6
+68,Cairo,ده فعلا مختلف ان الواحد يسوق على جنب الشارع اليمين.,ده فعلا مختلف ان الواحد يسوق على جنب الشارع اليمين .,pron_dem adv adj conj_sub noun verb prep noun noun noun punc,11
+69,Cairo,الممثل ده حقيقي رائع.,الممثل ده حقيقي رائع .,noun pron_dem adj adj punc,5
+72,Cairo,فين قسم الكتب اللي مش خياليه بتاعك؟,فين قسم الكتب اللي مش خياليه بتاعك ؟,adv_interrog noun noun pron_rel part_neg adj noun punc,8
+74,Cairo,لو لازم يظهر، لو سمحت كلمني .,لو لازم يظهر ، لو سمحت كلمني .,conj_sub verb verb punc conj_sub verb verb punc,8
+78,Cairo,ممكن لو سمحت تغير الكرسي بتاعي؟,ممكن لو سمحت تغير الكرسي بتاعي ؟,adj conj_sub verb verb noun prep punc,7
+79,Cairo,فيه ضمان؟,فيه ضمان ؟,part noun punc,3
+83,Cairo,أسف، انا حأخد بالي من الكلب.,أسف ، انا حأخد بالي من الكلب .,verb punc pron verb noun prep noun punc,8
+84,Cairo,انا عايز تذكرتين علشان حفلى ال كاتس، الخميس ده.,انا عايز تذكرتين علشان حفلى ال كاتس ، الخميس ده .,pron adj noun prep noun part noun_prop punc noun pron_dem punc,11
+86,Cairo,فين القهوة؟,فين القهوة ؟,adv_interrog noun punc,3
+87,Cairo,عايز بلوفر اطفال.,عايز بلوفر اطفال .,adj noun noun punc,4
+89,Cairo,اسمك تاني لو سمحت؟,اسمك تاني لو سمحت ؟,noun adj conj_sub verb punc,5
+90,Cairo,استاذ براون موجود؟,استاذ براون موجود ؟,noun noun_prop adj punc,4
+91,Cairo,اوكيه . ده بيكلف خمسه و تمانين سنت للبريد العادي أو زيادة تلات دولارات بالظبط للبريد المخصوص.,اوكيه . ده بيكلف خمسه و تمانين سنت للبريد العادي أو زيادة تلات دولارات بالظبط للبريد المخصوص .,noun punc pron verb noun_num conj noun_num noun noun adj conj noun noun_num noun adv noun adj punc,18
+92,Cairo,ممكن أأجر مركب ليوم؟,ممكن أأجر مركب ليوم ؟,adj verb noun noun punc,5
+93,Cairo,ممكن أحجز في أى شباك؟,ممكن أحجز في أى شباك ؟,adj verb prep adv_interrog noun punc,6
+94,Cairo,أيه ده؟,أيه ده ؟,part_interrog pron_dem punc,3
+96,Cairo,ممكن تقوللي ازاي أروح الاوبرا؟,ممكن تقوللي ازاي أروح الاوبرا ؟,adj verb part_interrog verb noun_prop punc,6
+97,Cairo,انت ماكنتش سكران شويه الليله اللي فاتت، حبيبي؟,انت ماكنتش سكران شويه الليله اللي فاتت ، حبيبي ؟,pron verb adj noun noun pron_rel verb punc noun punc,10
+98,Cairo,لو سمحت خليك ورا تعليمات الموظفين بتوعنا .,لو سمحت خليك ورا تعليمات الموظفين بتوعنا .,conj_sub verb verb adv noun noun noun punc,8
+100,Cairo,فيه هايبر ماركت قريب من هنا؟,فيه هايبر ماركت قريب من هنا ؟,part noun noun adj prep adv punc,7
+102,Cairo,فول، لو سمحت.,فول ، لو سمحت .,verb punc conj_sub verb punc,5
+103,Cairo,فيه اى اوضه ارخص؟,فيه اى اوضه ارخص ؟,part adj noun adj_comp punc,5
+104,Cairo,انا بأفضل العربيات الاوتوماتيك .,انا بأفضل العربيات الاوتوماتيك .,pron verb noun adj punc,5
+105,Cairo,انا حأفضل في سكن جامعه هارفارد.,انا حأفضل في سكن جامعه هارفارد .,pron verb prep noun noun noun_prop punc,7
+106,Cairo,كام السعر النهاردة؟,كام السعر النهاردة ؟,adv_interrog noun noun punc,4
+108,Cairo,انا تعبان علطول من التنفس .,انا تعبان علطول من التنفس .,pron adv adj prep noun punc,6
+109,Cairo,عندي حوالي تلات تلاف دولار.,عندي حوالي تلات تلاف دولار .,prep noun_quant noun_num noun_num noun punc,6
+111,Cairo,حاضر يا أستاذ . ده بييجي أما مع بطاطس محمرة أو رز بيلاف . حضرتك تحب ايه؟,حاضر يا أستاذ . ده بييجي أما مع بطاطس محمرة أو رز بيلاف . حضرتك تحب ايه ؟,interj part_voc noun punc pron_dem verb conj prep noun adj conj noun noun punc noun verb pron_interrog punc,18
+112,Cairo,ازاى أوصل للمكان ده؟,ازاى أوصل للمكان ده ؟,adv_interrog verb noun pron_dem punc,5
+113,Cairo,ايه نوع القصه ديه؟,ايه نوع القصه ديه ؟,pron_interrog noun noun pron_dem punc,5
+115,Cairo,تلات مرات .,تلات مرات .,noun_num noun punc,3
+116,Cairo,أى شباك بيبيع الطوابع؟,أى شباك بيبيع الطوابع ؟,adv_interrog noun verb noun punc,5
+117,Cairo,بعد ما هاجمني، هرب في عربية صندوق بيضا.,بعد ما هاجمني ، هرب في عربية صندوق بيضا .,noun conj_sub verb punc verb prep noun noun adj punc,10
+119,Cairo,أوكي . من فضلك خلي معاك البطاقة ديه و قدمها لما تيجي تستلمه .,أوكي . من فضلك خلي معاك البطاقة ديه و قدمها لما تيجي تستلمه .,interj punc prep noun verb prep noun pron_dem conj verb conj_sub verb verb punc,14
+120,Cairo,لو كنت مكانك كنت صدقت.,لو كنت مكانك كنت صدقت .,conj_sub verb noun verb verb punc,6
+122,Cairo,ميتين دولار . كاش ولا كريديت كارد؟,ميتين دولار . كاش ولا كريديت كارد ؟,noun_num noun punc noun conj noun noun punc,8
+125,Cairo,ياخد وقت اد ايه علشان نعدي البركة؟,ياخد وقت اد ايه علشان نعدي البركة ؟,verb noun adv_interrog pron_interrog prep verb noun punc,8
+128,Cairo,مفروض اننا أبطل اكل معين و انا بأخد الدوا ده؟,مفروض اننا أبطل اكل معين و انا بأخد الدوا ده ؟,adj conj verb noun adj conj pron verb noun pron_dem punc,11
+129,Cairo,حالاقي مشاكل مع الجمارك؟,حالاقي مشاكل مع الجمارك ؟,verb noun prep noun punc,5
+130,Cairo,عندك جزم رسمي واسعه من قدام؟,عندك جزم رسمي واسعه من قدام ؟,prep noun adj adj prep noun punc,7
+131,Cairo,ممكن شويه نبيت أحمر؟,ممكن شويه نبيت أحمر ؟,adj noun noun adj punc,5
+133,Cairo,قول لي لما نوصل المتحف .,قول لي لما نوصل المتحف .,verb prep conj_sub verb noun punc,6
+134,Cairo,الاتوبيس ده بيروح فندق شيراتون؟,الاتوبيس ده بيروح فندق شيراتون ؟,noun pron_dem verb noun noun_prop punc,6
+135,Cairo,معناه ايه؟,معناه ايه ؟,noun pron_interrog punc,3
+136,Cairo,الدنيا حر شويه. ممكن افتح الشباك؟,الدنيا حر شويه . ممكن افتح الشباك ؟,noun adj noun punc adj verb noun punc,8
+138,Cairo,كفاياني اخد دش .,كفاياني اخد دش .,noun verb noun punc,4
+139,Cairo,عينيا حمرا بلون الدم .,عينيا حمرا بلون الدم .,noun adj noun noun punc,5
+140,Cairo,لأ . ممكن انصح اوضة بسريرين يقعد فيها واحد بس؟ احنا عندنا واحده .,لأ . ممكن انصح اوضة بسريرين يقعد فيها واحد بس ؟ احنا عندنا واحده .,part_neg punc adj verb noun noun verb prep noun adv punc pron prep adj punc,15
+142,Cairo,ما اقدرش اضمن ده، بس حنحاول اد ما نقدر .,ما اقدرش اضمن ده ، بس حنحاول اد ما نقدر .,part_neg verb verb pron_dem punc conj verb adv pron_rel verb punc,11
+143,Cairo,عاوز كيرلي جامد، لو سمحت.,عاوز كيرلي جامد ، لو سمحت .,adj noun adj punc conj_sub verb punc,7
+144,Cairo,البحر متشاف صغير بعيد.,البحر متشاف صغير بعيد .,noun adj adj adj punc,5
+145,Cairo,نفسها في بيرة.,نفسها في بيرة .,verb prep noun punc,4
+146,Cairo,محتاج عملية .,محتاج عملية .,adj noun punc,3
+147,Cairo,ممكن بيض كمان، من فضلك.,ممكن بيض كمان ، من فضلك .,adj noun noun punc prep noun punc,7
+148,Cairo,فين محطة الاوتوبيس اللي رايح سنترال بارك؟,فين محطة الاوتوبيس اللي رايح سنترال بارك ؟,part_interrog noun noun pron_rel adj noun_prop noun_prop punc,8
+149,Cairo,تاكسيات؟,تاكسيات ؟,noun punc,2
+151,Cairo,اتفضل مفتاحك يا استاذ، أوضه سته و خمسين دور اتناشر.,اتفضل مفتاحك يا استاذ ، أوضه سته و خمسين دور اتناشر .,verb noun part_voc noun punc noun noun_num conj noun_num noun noun_num punc,12
+153,Cairo,عاجبني البلوفر بتاعك.,عاجبني البلوفر بتاعك .,verb noun prep punc,4
+154,Cairo,اتفضل.,اتفضل .,verb punc,2
+155,Cairo,ادينا وصلنا . ده فندقك .,ادينا وصلنا . ده فندقك .,verb verb punc pron_dem noun punc,6
+156,Cairo,امتى يبتدي ماتش السله؟,امتى يبتدي ماتش السله ؟,adv_interrog verb noun noun punc,5
+157,Cairo,صباح الخير . عامل ايه؟,صباح الخير . عامل ايه ؟,noun noun punc verb adv_interrog punc,6
+158,Cairo,متأسف بس محتاج أشوف أى مستند اثبات شخصية .,متأسف بس محتاج أشوف أى مستند اثبات شخصية .,adj adv adj verb noun_quant noun noun noun punc,9
+159,Cairo,ايه كان انطباعك؟,ايه كان انطباعك ؟,pron_interrog verb_pseudo noun punc,4
+160,Cairo,أكيد . تحب قهوتك مع العشا او بعدين؟,أكيد . تحب قهوتك مع العشا او بعدين ؟,adv punc verb noun prep noun conj noun punc,9
+161,Cairo,طيارتي الساعه اتناشر لطوكيو.,طيارتي الساعه اتناشر لطوكيو .,noun noun noun_num noun_prop punc,5
+162,Cairo,من فضلك عايز اعمل مكالمة خارجية.,من فضلك عايز اعمل مكالمة خارجية .,prep noun adj verb noun adj punc,7
+0,Doha,موجود في نهاية الممر، بجيب لك شوي الحين. اذا احتجت شي ثاني خبرني.,موجود في نهاية الممر ، بجيب لك شوي الحين . اذا احتجت شي ثاني خبرني .,adj prep noun noun punc verb prep noun adv punc conj_sub verb noun adj_num verb punc,16
+2,Doha,تسوي تعديلات؟,تسوي تعديلات ؟,verb noun punc,3
+4,Doha,بغينا طاولة يم الدريشة.,بغينا طاولة يم الدريشة .,verb noun noun noun punc,5
+5,Doha,هو ذاك الصوب، بالضبط جدام استعلامات السياح بالضبط.,هو ذاك الصوب ، بالضبط جدام استعلامات السياح بالضبط .,pron pron_dem noun punc adv prep noun noun adv punc,10
+9,Doha,ما قط سمعت بهالعنوان في هالمنطقة من قبل.,ما قط سمعت بهالعنوان في هالمنطقة من قبل .,part_neg adv verb noun prep noun prep noun punc,9
+11,Doha,امش سيده لين تشوف صيدلية.,امش سيده لين تشوف صيدلية .,verb adv conj_sub verb noun punc,6
+12,Doha,شنو اللون اللي هابين فيه هالفترة؟,شنو اللون اللي هابين فيه هالفترة ؟,pron_interrog noun pron_rel adj prep noun punc,7
+14,Doha,في حالتي انا دايماً حق شغل، نادراً حق استانس.,في حالتي انا دايماً حق شغل ، نادراً حق استانس .,prep noun pron adv noun noun punc adv noun noun punc,11
+15,Doha,بقعد يومين.,بقعد يومين .,verb noun punc,3
+16,Doha,بغيت كيرلي ضيق.,بغيت كيرلي ضيق .,verb noun adj punc,4
+17,Doha,بغيت احجز غرفتين مزدوجتين.,بغيت احجز غرفتين مزدوجتين .,verb verb noun adj punc,5
+18,Doha,ما أبغيه منزوع.,ما أبغيه منزوع .,part_neg verb adj punc,4
+19,Doha,يوقف هالباص في شارع ستونر؟,يوقف هالباص في شارع ستونر ؟,verb noun prep noun noun_prop punc,6
+24,Doha,افتح حلجك قد ما تقدر.,افتح حلجك قد ما تقدر .,verb noun part_verb pron_rel verb punc,6
+26,Doha,بكم الريوق؟,بكم الريوق ؟,adv_interrog noun punc,3
+27,Doha,شلون اقدر اساعدك؟,شلون اقدر اساعدك ؟,adv_interrog verb verb punc,4
+29,Doha,خل ناخذ شي ناكله.,خل ناخذ شي ناكله .,verb verb noun verb punc,5
+30,Doha,خذ ثالث لفة يسار.,خذ ثالث لفة يسار .,verb adj_num noun noun punc,5
+31,Doha,ممكن تنظف هالثياب؟,ممكن تنظف هالثياب ؟,adj verb noun punc,4
+37,Doha,عطيتك رقم تلفونه وعنوانه.,عطيتك رقم تلفونه وعنوانه .,verb noun noun noun punc,5
+38,Doha,دفعت مصاريف الوجبات والفندق مقدم.,دفعت مصاريف الوجبات والفندق مقدم .,verb noun noun noun adv punc,6
+40,Doha,قاعد ادور مطعم مشويات زين وهادي. ممكن تأشر عليهم في الخريطة؟,قاعد ادور مطعم مشويات زين وهادي . ممكن تأشر عليهم في الخريطة ؟,part_verb verb noun noun adj adj punc adj verb prep prep noun punc,13
+42,Doha,اذا كسرته تشتريه.,اذا كسرته تشتريه .,conj_sub verb verb punc,4
+46,Doha,بقول لها تكلمك اول ما ترجع.,بقول لها تكلمك اول ما ترجع .,verb prep verb adj_num conj_sub verb punc,7
+50,Doha,بغيت سكر وكريمة في القهوة؟,بغيت سكر وكريمة في القهوة ؟,verb noun noun prep noun punc,6
+51,Doha,هي متعورة واجد.,هي متعورة واجد .,pron noun adj punc,4
+52,Doha,بغيت ولاعة.,بغيت ولاعة .,verb noun punc,3
+53,Doha,في تجهيزات للمؤتمرات في هالفندق؟,في تجهيزات للمؤتمرات في هالفندق ؟,prep noun noun prep noun punc,6
+56,Doha,معليه ناكل وجبة خفيفة؟,معليه ناكل وجبة خفيفة ؟,interj verb noun adj punc,5
+57,Doha,انا اتصل من المطار، بكون عندك على الساعة اربع.,انا اتصل من المطار ، بكون عندك على الساعة اربع .,pron verb prep noun punc verb prep prep noun noun_num punc,11
+62,Doha,وين اقدر احول لشيكاغو؟,وين اقدر احول لشيكاغو ؟,adv_interrog verb verb noun_prop punc,5
+63,Doha,كم يكلف ارسال رسالة مسجلة لفرنسا؟,كم يكلف ارسال رسالة مسجلة لفرنسا ؟,adv_interrog verb noun noun adj noun_prop punc,7
+64,Doha,ممكن تصرف لي قيمة جيكي بو ميتين دولار كاش؟,ممكن تصرف لي قيمة جيكي بو ميتين دولار كاش ؟,adj verb prep noun noun prep noun_num noun noun punc,10
+68,Doha,وايد فرق لما تسوق على الجهة اليمين.,وايد فرق لما تسوق على الجهة اليمين .,adj noun conj_sub verb prep noun noun punc,8
+69,Doha,الممثل واجد عجيب.,الممثل واجد عجيب .,noun adj adj punc,4
+72,Doha,وين قسم الكتب الواقعية؟,وين قسم الكتب الواقعية ؟,adv_interrog noun noun adj punc,5
+74,Doha,اذا المفروض يصير، اتصل فيني.,اذا المفروض يصير ، اتصل فيني .,conj_sub noun verb punc verb prep punc,7
+78,Doha,ممكن تغير كرسيي؟,ممكن تغير كرسيي ؟,adj verb noun punc,4
+79,Doha,في ضمان؟,في ضمان ؟,prep noun punc,3
+83,Doha,مسامحة، بحط بالي على الكلب.,مسامحة ، بحط بالي على الكلب .,noun punc verb noun prep noun punc,7
+84,Doha,"بغيت تذكرتين حق ""كاتس"" هالخميس.","بغيت تذكرتين حق "" كاتس "" هالخميس .",verb noun prep punc noun_prop punc noun_num punc,8
+86,Doha,وين الكوفي شوب؟,وين الكوفي شوب ؟,adv_interrog noun noun punc,4
+87,Doha,بغيت فانلة يهال.,بغيت فانلة يهال .,verb noun noun punc,4
+89,Doha,شسمك مرة ثانية؟,شسمك مرة ثانية ؟,noun noun adj punc,4
+90,Doha,سيد براون موجود؟,سيد براون موجود ؟,noun noun_prop adj punc,4
+91,Doha,اوكي. يكلف خمسة وثمانين سنت بالبريد العادي وثلاث دولارات بالضبط زيادة حق التسليم الخاص.,اوكي . يكلف خمسة وثمانين سنت بالبريد العادي وثلاث دولارات بالضبط زيادة حق التسليم الخاص .,noun punc verb noun_num noun_num noun noun adj noun_num noun adv noun prep noun adj punc,16
+92,Doha,ممكن أأجر طراد حق يوم واحد؟,ممكن أأجر طراد حق يوم واحد ؟,adj verb noun prep noun noun_num punc,7
+93,Doha,في أي كشك يصير احجز؟,في أي كشك يصير احجز ؟,prep pron_interrog noun verb verb punc,6
+94,Doha,شنو ذي؟,شنو ذي ؟,part_interrog pron_dem punc,3
+96,Doha,ممكن تقول لي شلون اروح الأوبرا؟,ممكن تقول لي شلون اروح الأوبرا ؟,adj verb prep adv_interrog verb noun_prop punc,7
+97,Doha,حبيبي مو جنك كنت واجد سكران البارحة؟,حبيبي مو جنك كنت واجد سكران البارحة ؟,noun part_neg verb verb adv adj noun punc,8
+98,Doha,اتبع تعليمات موظفينا لو سمحت.,اتبع تعليمات موظفينا لو سمحت .,verb noun noun conj_sub verb punc,6
+100,Doha,في مركز تجاري قريب من هني؟,في مركز تجاري قريب من هني ؟,part noun adj adj prep adv punc,7
+102,Doha,فل، لو سمحت.,فل ، لو سمحت .,verb punc conj_sub verb punc,5
+103,Doha,في غرفة أرخص؟,في غرفة أرخص ؟,prep noun adj punc,4
+104,Doha,افضل سيارة اوتوماتيك.,افضل سيارة اوتوماتيك .,verb noun adj punc,4
+105,Doha,بسكن في سكن جامعة هارفارد.,بسكن في سكن جامعة هارفارد .,verb prep noun noun noun_prop punc,6
+106,Doha,شنو السعر اليوم؟,شنو السعر اليوم ؟,pron_interrog noun noun punc,4
+108,Doha,فيني ربو مزمن.,فيني ربو مزمن .,prep noun adj punc,4
+109,Doha,عندي ثلاثة آلاف دولار تقريباً.,عندي ثلاثة آلاف دولار تقريباً .,prep noun_num noun_num noun adv punc,6
+111,Doha,اوكي. الطبق ايي مع بطاطس او أرز بيلاف. شنو تفضل؟,اوكي . الطبق ايي مع بطاطس او أرز بيلاف . شنو تفضل ؟,interj punc noun verb prep noun conj noun noun punc part_interrog verb punc,13
+112,Doha,شلون اروح هالمكان؟,شلون اروح هالمكان ؟,adv_interrog verb noun punc,4
+113,Doha,شنوع القصة؟,شنوع القصة ؟,adv_interrog noun punc,3
+115,Doha,ثلاث مرات.,ثلاث مرات .,noun_num noun punc,3
+116,Doha,اي كشك يبيع طوابع؟,اي كشك يبيع طوابع ؟,adv_interrog noun verb noun punc,5
+117,Doha,هاجمني وعقب راح في فان ابيض.,هاجمني وعقب راح في فان ابيض .,verb prep verb prep noun adj punc,7
+119,Doha,اوكي. لو سمحت خل هالبطاقة عندك وطلعها لما تجي تستلمه.,اوكي . لو سمحت خل هالبطاقة عندك وطلعها لما تجي تستلمه .,interj punc conj_sub verb verb noun prep verb conj_sub verb verb punc,12
+120,Doha,لو كنت مكانك جان بشتري هذي.,لو كنت مكانك جان بشتري هذي .,conj_sub verb noun part verb pron_dem punc,7
+122,Doha,ميتين دولار. كاش او كردت كارد؟,ميتين دولار . كاش او كردت كارد ؟,noun noun punc noun conj noun noun punc,8
+125,Doha,شكثر تاخذ مدة الرحلة على هالبركة؟,شكثر تاخذ مدة الرحلة على هالبركة ؟,adv_interrog verb noun noun prep noun punc,7
+128,Doha,في اكل لازم اتجنبه وانا اخذ هالدوا؟,في اكل لازم اتجنبه وانا اخذ هالدوا ؟,part noun adj verb pron verb noun punc,8
+129,Doha,بتكون في اي صعوبات مع الجمارك؟,بتكون في اي صعوبات مع الجمارك ؟,verb prep noun_quant noun prep noun punc,7
+130,Doha,عندك جواتي رسمية حق الرجول العريضة؟,عندك جواتي رسمية حق الرجول العريضة ؟,prep noun adj prep noun adj punc,7
+131,Doha,بغيت واين احمر؟,بغيت واين احمر ؟,verb noun adj punc,4
+133,Doha,خبرني لين وصلنا المتحف.,خبرني لين وصلنا المتحف .,verb conj_sub verb noun punc,5
+134,Doha,يروح هالباص لفندق الشيراتون؟,يروح هالباص لفندق الشيراتون ؟,verb noun noun noun_prop punc,5
+135,Doha,كم يصير؟,كم يصير ؟,part_interrog verb punc,3
+136,Doha,شوي حر. عادي ابطل الدريشة؟,شوي حر . عادي ابطل الدريشة ؟,noun adj punc adj verb noun punc,7
+138,Doha,بس شور اوكي.,بس شور اوكي .,adv noun_prop noun punc,4
+139,Doha,عيوني حمر.,عيوني حمر .,noun adj punc,3
+140,Doha,لا. بغيت غرفة مزدوجة بس حق استخدام فردي؟ عندنا وحدة.,لا . بغيت غرفة مزدوجة بس حق استخدام فردي ؟ عندنا وحدة .,part_neg punc verb noun adj conj prep noun adj punc prep adj punc,13
+142,Doha,ماقدر اضمن لك، بس بنحاول.,ماقدر اضمن لك ، بس بنحاول .,verb verb prep punc conj verb punc,7
+143,Doha,ابغي كيرلي ضيق، لو سمحت.,ابغي كيرلي ضيق ، لو سمحت .,verb noun adj punc conj_sub verb punc,7
+144,Doha,تقدر تشوف البحر تحت من بعيد.,تقدر تشوف البحر تحت من بعيد .,verb verb noun prep prep adj punc,7
+145,Doha,هي تبغي بير.,هي تبغي بير .,pron verb noun punc,4
+146,Doha,تحتاج عملية.,تحتاج عملية .,verb noun punc,3
+147,Doha,بيض اكثر، لو سمحت.,بيض اكثر ، لو سمحت .,noun noun_quant punc conj_sub verb punc,6
+148,Doha,وين محطة الباص حق سنترال بارك؟,وين محطة الباص حق سنترال بارك ؟,adv_interrog noun noun prep noun noun punc,7
+149,Doha,تكاسي؟,تكاسي ؟,noun punc,2
+151,Doha,تفضل مفتاحك اخوي. غرفة خمسة آلاف وستمية واثنعش.,تفضل مفتاحك اخوي . غرفة خمسة آلاف وستمية واثنعش .,verb noun noun punc noun noun_num noun_num noun_num noun_num punc,10
+153,Doha,عجبني قميصك.,عجبني قميصك .,verb noun punc,3
+154,Doha,تفضل.,تفضل .,verb punc,2
+155,Doha,وصلنا. هذي فندقك.,وصلنا . هذي فندقك .,verb punc pron_dem noun punc,5
+156,Doha,متى تبتدي مباراة كرة السلة؟,متى تبتدي مباراة كرة السلة ؟,adv_interrog verb noun noun noun punc,6
+157,Doha,صباح الخير. شلونك؟,صباح الخير . شلونك ؟,noun noun punc adv_interrog punc,5
+158,Doha,مسامحة بس لازم اشوف شي يثبت الهوية.,مسامحة بس لازم اشوف شي يثبت الهوية .,noun conj verb verb noun verb noun punc,8
+159,Doha,شرايك؟,شرايك ؟,adv_interrog punc,2
+160,Doha,أكيد. بغيت قهوتك مع العشا او بعده؟,أكيد . بغيت قهوتك مع العشا او بعده ؟,adj punc verb noun prep noun conj noun punc,9
+161,Doha,بسافر على طيارة اثنعش لي طوكيو.,بسافر على طيارة اثنعش لي طوكيو .,verb prep noun noun_num prep noun_prop punc,7
+162,Doha,بغيت اسوي مكالمة خارجية، لو سمحت.,بغيت اسوي مكالمة خارجية ، لو سمحت .,verb verb noun adj punc conj_sub verb punc,8
+0,Rabat,كاين في اللاخر ديال هاد القاعة. انجيب ليك شويا دابا. و إلا حتاجيتي شي حاجا اخرى، قولها ليا.,كاين في اللاخر ديال هاد القاعة . انجيب ليك شويا دابا . و إلا حتاجيتي شي حاجا اخرى ، قولها ليا .,verb prep noun prep part noun punc verb pron noun adv punc conj part_restrict verb noun_quant noun adj punc verb pron punc,22
+2,Rabat,واش كا دير التعديلات؟,واش كا دير التعديلات ؟,part_interrog part verb noun punc,5
+4,Rabat,بغينا ناخدو طابلة حدا الشرجم.,بغينا ناخدو طابلة حدا الشرجم .,verb verb noun noun noun punc,6
+5,Rabat,راه تما، مقابل مكتب استعلامات السياح بالضبط.,راه تما ، مقابل مكتب استعلامات السياح بالضبط .,part adv punc prep noun noun noun adv punc,9
+9,Rabat,ما عمري سمعت هاد العنوان هنايا.,ما عمري سمعت هاد العنوان هنايا .,part_neg noun verb pron_dem noun adv punc,7
+11,Rabat,سير نيشان حتا تشوف صيدلية.,سير نيشان حتا تشوف صيدلية .,verb adv conj_sub verb noun punc,6
+12,Rabat,شنو هو اجدد لون هاد الموسم؟,شنو هو اجدد لون هاد الموسم ؟,adv_interrog pron adj_comp noun pron_dem noun punc,7
+14,Rabat,في الحالة ديالي، راه غالبا على الخدمة، قليل للمتعة.,في الحالة ديالي ، راه غالبا على الخدمة ، قليل للمتعة .,prep noun noun punc part adv prep noun punc adv noun punc,12
+15,Rabat,غادي نبقا يومين.,غادي نبقا يومين .,verb_pseudo verb noun punc,4
+16,Rabat,بغيت بيرمانونت مجهد.,بغيت بيرمانونت مجهد .,verb noun adj punc,4
+17,Rabat,بغيت نحجز جوج غرف ثنائية.,بغيت نحجز جوج غرف ثنائية .,verb verb noun_num noun adj punc,6
+18,Rabat,ما بغيتهوش منزوع.,ما بغيتهوش منزوع .,part_neg verb adj punc,4
+19,Rabat,واش كا يحبس هاد الطوبيس في شارع ستونر؟,واش كا يحبس هاد الطوبيس في شارع ستونر ؟,part_interrog part verb pron_dem noun prep noun noun_prop punc,9
+24,Rabat,حل فمك مزيان عافاك.,حل فمك مزيان عافاك .,verb noun adj interj punc,5
+26,Rabat,شحال كا يدير الفطور؟,شحال كا يدير الفطور ؟,adv_interrog part verb noun punc,5
+27,Rabat,كيفاش نقدر نعاونك؟,كيفاش نقدر نعاونك ؟,adv_interrog verb verb punc,4
+29,Rabat,يالاه ناخدو شي حاجة ناكلوها.,يالاه ناخدو شي حاجة ناكلوها .,interj verb noun prep verb punc,6
+30,Rabat,مع القنت التالت دور على ليسر.,مع القنت التالت دور على ليسر .,prep noun adj verb prep noun punc,7
+31,Rabat,واخا تغسل هاد لحوايج؟,واخا تغسل هاد لحوايج ؟,part verb pron_dem noun punc,5
+37,Rabat,غادي نعطيك رقم التلفون و العنوان ديالو.,غادي نعطيك رقم التلفون و العنوان ديالو .,verb_pseudo verb noun noun conj noun noun punc,8
+38,Rabat,خلصت الماكلة و الأوطيل مسبقاً.,خلصت الماكلة و الأوطيل مسبقاً .,verb noun conj noun adv punc,6
+40,Rabat,كا نقلب على شي مطعم زوين، وهادئ من نوع الشوا. واخا توريهم في هاد الخريطة؟,كا نقلب على شي مطعم زوين ، وهادئ من نوع الشوا . واخا توريهم في هاد الخريطة ؟,part verb prep part noun adj punc adj prep noun noun punc interj verb prep pron_dem noun punc,18
+42,Rabat,الا هرسته، خاصك تشريه.,الا هرسته ، خاصك تشريه .,pron_rel verb punc verb verb punc,6
+46,Rabat,غادي نقول ليها تعيط ليك منين ترجع.,غادي نقول ليها تعيط ليك منين ترجع .,verb_pseudo verb prep verb prep conj_sub verb punc,8
+50,Rabat,واش تبغي لاكريم و السكر في القهوة ديالك؟,واش تبغي لاكريم و السكر في القهوة ديالك ؟,part_interrog verb noun conj noun prep noun noun punc,9
+51,Rabat,راها مضروبة بزاف.,راها مضروبة بزاف .,part noun adv punc,4
+52,Rabat,بغيت بريكا.,بغيت بريكا .,verb noun punc,3
+53,Rabat,واش هاد الأوطيل فيه تجهيزات ديال المؤتمرات؟,واش هاد الأوطيل فيه تجهيزات ديال المؤتمرات ؟,part_interrog pron_dem noun prep noun prep noun punc,8
+56,Rabat,واش ماشي مشكل ناخدو غير وجبة خفيفة؟,واش ماشي مشكل ناخدو غير وجبة خفيفة ؟,part_interrog part_neg noun verb adv noun adj punc,8
+57,Rabat,كا نعيط من المطار. غادي نكون تما معا الربعة تقريباً.,كا نعيط من المطار . غادي نكون تما معا الربعة تقريباً .,part verb prep noun punc verb_pseudo verb adv prep noun adv punc,12
+62,Rabat,منين نحول لشيكاغو؟,منين نحول لشيكاغو ؟,adv_interrog verb noun_prop punc,4
+63,Rabat,بشحال نقدر نصيفط رسالة مسجلة لفرنسا؟,بشحال نقدر نصيفط رسالة مسجلة لفرنسا ؟,adv_interrog verb verb noun adj noun_prop punc,7
+64,Rabat,تقدر تخلص الشيك ديالي ديال ميتين دولار؟,تقدر تخلص الشيك ديالي ديال ميتين دولار ؟,verb verb noun noun prep noun_num noun punc,8
+68,Rabat,السياقة مختالفة بزاف من الجنب ليمن ديال الزنقة.,السياقة مختالفة بزاف من الجنب ليمن ديال الزنقة .,noun adj adv prep noun adj prep noun punc,9
+69,Rabat,الممثل واعر بزاف.,الممثل واعر بزاف .,noun adj adv punc,4
+72,Rabat,فين هو القسم ديال الكتاب الواقعي؟,فين هو القسم ديال الكتاب الواقعي ؟,adv_interrog pron noun prep noun adj punc,7
+74,Rabat,إلا خصو يبان، عيط ليا عفاك.,إلا خصو يبان ، عيط ليا عفاك .,part_restrict verb verb punc verb prep interj punc,8
+78,Rabat,تقدر تبدل ليا البلاصة عفاك؟,تقدر تبدل ليا البلاصة عفاك ؟,verb verb prep noun interj punc,6
+79,Rabat,واش كاين شي ضمانة؟,واش كاين شي ضمانة ؟,part_interrog verb noun noun punc,5
+83,Rabat,سمح ليا، غادي نتهلا في الكلب.,سمح ليا ، غادي نتهلا في الكلب .,verb prep punc verb_pseudo verb prep noun punc,8
+84,Rabat,بغيت جوج وراق ل''كاتس ''، لهاد الخميس.,بغيت جوج وراق ل ' ' كاتس ' ' ، لهاد الخميس .,verb noun_num noun prep punc punc noun_prop punc punc punc pron_dem noun punc,13
+86,Rabat,فين القهوة؟,فين القهوة ؟,adv_interrog noun punc,3
+87,Rabat,بغيت تريكو ديال الدراري الصغار.,بغيت تريكو ديال الدراري الصغار .,verb noun prep noun adj punc,6
+89,Rabat,شنو سميتك مرة خرا؟,شنو سميتك مرة خرا ؟,part_interrog noun noun adj punc,5
+90,Rabat,واش كاين مستر براون؟,واش كاين مستر براون ؟,part_interrog verb noun noun_prop punc,5
+91,Rabat,واخا. كايدير خمسة و تمانين دولار للبريد العادي و تلاتة دولار بالضبط زيادة للتوصيل الخاص.,واخا . كايدير خمسة و تمانين دولار للبريد العادي و تلاتة دولار بالضبط زيادة للتوصيل الخاص .,part punc verb noun_num conj noun_num noun noun adj conj noun_num noun adv noun noun adj punc,17
+92,Rabat,نقدر نكري باطو لنهار؟,نقدر نكري باطو لنهار ؟,verb verb noun noun punc,5
+93,Rabat,في إينا شرجم نقدر نحجز؟,في إينا شرجم نقدر نحجز ؟,prep pron_interrog noun verb verb punc,6
+94,Rabat,شنو هوا هاذا؟,شنو هوا هاذا ؟,part_interrog pron pron_dem punc,4
+96,Rabat,تقدر تقول ليا منين نمشي للأوبيرا؟,تقدر تقول ليا منين نمشي للأوبيرا ؟,verb verb prep part_interrog verb noun_prop punc,7
+97,Rabat,ماكنتيش شويا سكران لبارح، أحبيبي؟,ماكنتيش شويا سكران لبارح ، أحبيبي ؟,verb noun adj noun punc noun punc,7
+98,Rabat,عفاك تبع التعليمات ديال الطاقم ديالنا.,عفاك تبع التعليمات ديال الطاقم ديالنا .,interj verb noun prep noun noun punc,7
+100,Rabat,واش كاين شي متجر شامل قريب من هنا؟,واش كاين شي متجر شامل قريب من هنا ؟,part_interrog verb noun noun adj adj prep adv punc,9
+102,Rabat,عمر، عافاك.,عمر ، عافاك .,noun_prop punc interj punc,4
+103,Rabat,واش كاينا شي غرفة أرخص؟,واش كاينا شي غرفة أرخص ؟,part_interrog verb noun noun adj_comp punc,6
+104,Rabat,كا نفضل سيارة اوطوماتيك.,كا نفضل سيارة اوطوماتيك .,part_fut verb noun adj punc,5
+105,Rabat,غادي نبقا في السكن الداخلي ديال جامعة هارفرد.,غادي نبقا في السكن الداخلي ديال جامعة هارفرد .,verb_pseudo verb prep noun adj prep noun noun_prop punc,9
+106,Rabat,شنو هوا المعدل ديال هاد النهار؟,شنو هوا المعدل ديال هاد النهار ؟,part_interrog pron noun prep pron_dem noun punc,7
+108,Rabat,كا نعاني من مرض الضيقة المزمنة.,كا نعاني من مرض الضيقة المزمنة .,part verb prep noun noun adj punc,7
+109,Rabat,عندي تقريباً تلاتة آلاف دولار.,عندي تقريباً تلاتة آلاف دولار .,prep adv noun_num noun noun punc,6
+111,Rabat,واخا، أسيدي. كا يجي معا فريت أو الروز. إينا واحد تبغي؟,واخا ، أسيدي . كا يجي معا فريت أو الروز . إينا واحد تبغي ؟,part punc noun punc part verb prep noun conj noun punc pron_interrog noun verb punc,15
+112,Rabat,كيفاش نقدر نمشي لهاد لبلاصة؟,كيفاش نقدر نمشي لهاد لبلاصة ؟,adv_interrog verb verb pron_dem noun punc,6
+113,Rabat,إينا نوع ديال القصة هذا؟,إينا نوع ديال القصة هذا ؟,pron_interrog noun prep noun pron_dem punc,6
+115,Rabat,تلاتة ديال المرات.,تلاتة ديال المرات .,noun_num prep noun punc,4
+116,Rabat,إينا شرجم كاي بيع التنابر؟,إينا شرجم كاي بيع التنابر ؟,pron_interrog noun part verb noun punc,6
+117,Rabat,من بعد ما هجم عليا، هرب في سيارة بيضا.,من بعد ما هجم عليا ، هرب في سيارة بيضا .,prep noun conj_sub verb prep punc verb prep noun adj punc,11
+119,Rabat,واخا. خلي عندك هاد البطاقة و قدمها منين تبغي تجي تديه.,واخا . خلي عندك هاد البطاقة و قدمها منين تبغي تجي تديه .,interj punc verb prep pron_dem noun conj verb conj_sub verb verb verb punc,13
+120,Rabat,كون كنت فبلاصتك كون شريتو.,كون كنت فبلاصتك كون شريتو .,conj_sub verb noun conj_sub verb punc,6
+122,Rabat,ألفين دولار. فلوس ولا بطاقة بنكية؟,ألفين دولار . فلوس ولا بطاقة بنكية ؟,noun_num noun punc noun conj noun adj punc,8
+125,Rabat,بشحال الركبة فداك الضاية؟,بشحال الركبة فداك الضاية ؟,adv_interrog noun noun noun punc,5
+128,Rabat,واش خصني نتجنب شي نوع ديال الماكلة فاش ناكل هاد الدوا؟,واش خصني نتجنب شي نوع ديال الماكلة فاش ناكل هاد الدوا ؟,part_interrog verb verb noun noun prep noun adv_interrog verb noun noun punc,12
+129,Rabat,واش غادي نلقا شي صعوبة مع الديوانا؟,واش غادي نلقا شي صعوبة مع الديوانا ؟,part_interrog verb_pseudo verb noun noun prep noun punc,8
+130,Rabat,واش عندك صبابط رسمية واسعة عند الصبع؟,واش عندك صبابط رسمية واسعة عند الصبع ؟,part_interrog prep noun adj adj prep noun punc,8
+131,Rabat,ممكن تعطيني شي مشروب؟,ممكن تعطيني شي مشروب ؟,adv verb noun noun punc,5
+133,Rabat,منين نوصلو للمتحف قولها ليا.,منين نوصلو للمتحف قولها ليا .,conj_sub verb noun verb prep punc,6
+134,Rabat,واش هاد الطوبيس كايمشي لأوطيل الشيراطون؟,واش هاد الطوبيس كايمشي لأوطيل الشيراطون ؟,part_interrog pron_dem noun verb noun noun_prop punc,7
+135,Rabat,شنو كاي عني داكشي؟,شنو كاي عني داكشي ؟,part_interrog part verb noun punc,5
+136,Rabat,كاين الصهد شوية. واش نقدر نحل الشرجم؟,كاين الصهد شوية . واش نقدر نحل الشرجم ؟,verb noun noun punc part_interrog verb verb noun punc,9
+138,Rabat,غير الدوش ماشي مشكل.,غير الدوش ماشي مشكل .,prep noun adj noun punc,5
+139,Rabat,عيني حمرين بزاف.,عيني حمرين بزاف .,noun adj adv punc,4
+140,Rabat,لا. نقدر نقتارح ثنائية لواحد؟ عندنا وحدة.,لا . نقدر نقتارح ثنائية لواحد ؟ عندنا وحدة .,part_neg punc verb verb noun noun punc prep adj punc,10
+142,Rabat,منقدرش نضمن هادشي، ولكن غادي نديرو جهدنا.,منقدرش نضمن هادشي ، ولكن غادي نديرو جهدنا .,verb verb noun punc conj verb_pseudo verb noun punc,9
+143,Rabat,بيرمانونت مجهد، عافاك.,بيرمانونت مجهد ، عافاك .,noun adj punc interj punc,5
+144,Rabat,البحر كان كاي بان لتحت .,البحر كان كاي بان لتحت .,noun verb part verb prep punc,6
+145,Rabat,بغات بيرا.,بغات بيرا .,verb noun punc,3
+146,Rabat,خاصك عملية.,خاصك عملية .,adj noun punc,3
+147,Rabat,زيدني البيض، عفاك.,زيدني البيض ، عفاك .,verb noun punc interj punc,5
+148,Rabat,فين هيا محطة الطوبيس ديال سنطرال بارك؟,فين هيا محطة الطوبيس ديال سنطرال بارك ؟,adv_interrog pron noun noun prep noun_prop noun_prop punc,8
+149,Rabat,طاكسي؟,طاكسي ؟,noun punc,2
+151,Rabat,ها هو الساروت ديالك أسيدي. الغرفة خمسالاف و ستميا و طناش.,ها هو الساروت ديالك أسيدي . الغرفة خمسالاف و ستميا و طناش .,pron_dem pron noun noun noun punc noun noun_num conj noun_num conj noun_num punc,13
+153,Rabat,عجبني التريكو ديالك.,عجبني التريكو ديالك .,verb noun noun punc,4
+154,Rabat,تفضل.,تفضل .,verb punc,2
+155,Rabat,ها حنا وصلنا. ها هو الأوطيل ديالك.,ها حنا وصلنا . ها هو الأوطيل ديالك .,pron_dem pron verb punc pron_dem pron noun prep punc,9
+156,Rabat,وقتاش الماتش ديال الباسكيط؟,وقتاش الماتش ديال الباسكيط ؟,adv_interrog noun prep noun punc,5
+157,Rabat,صباح الخير. كي داير؟,صباح الخير . كي داير ؟,noun noun punc adv_interrog adj punc,6
+158,Rabat,سمح ليا خصني نشوف شي وثيقة ديال الهوية.,سمح ليا خصني نشوف شي وثيقة ديال الهوية .,verb prep verb verb noun noun prep noun punc,9
+159,Rabat,شنو كان الإنطباع ديالك؟,شنو كان الإنطباع ديالك ؟,adv_interrog verb noun noun punc,5
+160,Rabat,معلوم. تبغي القهوة ديالك معا العشا ولا من بعد؟,معلوم . تبغي القهوة ديالك معا العشا ولا من بعد ؟,interj punc verb noun noun prep noun conj prep noun punc,11
+161,Rabat,غادي ناخد الرحلة طناش لطوكيو.,غادي ناخد الرحلة طناش لطوكيو .,verb_pseudo verb noun noun_num noun_prop punc,6
+162,Rabat,بغيت ندير مكالمة بعيدة، عفاك.,بغيت ندير مكالمة بعيدة ، عفاك .,verb verb noun adj punc interj punc,7
+0,Tunis,موجود في اخر الكولوار. و نجيبهولك توا. كان تستحق حاجة اخرى، قلي.,موجود في اخر الكولوار . و نجيبهولك توا . كان تستحق حاجة اخرى ، قلي .,adj prep adj_comp noun punc conj verb adv punc conj_sub verb noun adj punc verb punc,16
+2,Tunis,تعملوا تبديلات؟,تعملوا تبديلات ؟,verb noun punc,3
+4,Tunis,نحبوا طاولة قريبة مالشباك.,نحبوا طاولة قريبة مالشباك .,verb noun adj noun punc,5
+5,Tunis,اهوكا غادي، بالضبط قدام البيرو متاع الارشادات السياحية.,اهوكا غادي ، بالضبط قدام البيرو متاع الارشادات السياحية .,pron_dem verb_pseudo punc adv prep noun noun noun adj punc,10
+9,Tunis,عمري ما سمعت بالادريسة هاذي هوني.,عمري ما سمعت بالادريسة هاذي هوني .,noun part_neg verb noun pron_dem adv punc,7
+11,Tunis,امشي طول طول حتى لين تشوف صيدلية.,امشي طول طول حتى لين تشوف صيدلية .,verb adv adv conj_sub conj_sub verb noun punc,8
+12,Tunis,شنوة اجد لون الفصل هذا؟,شنوة اجد لون الفصل هذا ؟,pron_interrog adj noun noun pron_dem punc,6
+14,Tunis,في الحالة متاعي انا، الكثرية للخدمة، و ساعات للتفرهيد.,في الحالة متاعي انا ، الكثرية للخدمة ، و ساعات للتفرهيد .,prep noun noun pron punc adj noun punc conj noun noun punc,12
+15,Tunis,بش نقعد نهارين.,بش نقعد نهارين .,part_fut verb noun punc,4
+16,Tunis,نحب برمانونت قوي.,نحب برمانونت قوي .,verb noun adj punc,4
+17,Tunis,نحب نحجز زوز بيوت بزوز فروشات.,نحب نحجز زوز بيوت بزوز فروشات .,verb verb noun_num noun noun_num noun punc,7
+18,Tunis,ما نحبوش يتجبد.,ما نحبوش يتجبد .,part_neg verb verb punc,4
+19,Tunis,الكار هاذي تاقف في شارع ستونر؟,الكار هاذي تاقف في شارع ستونر ؟,noun pron_dem verb prep noun noun_prop punc,7
+24,Tunis,عيشك حل فمك بالقدا.,عيشك حل فمك بالقدا .,noun verb noun noun punc,5
+26,Tunis,بقداش فطور الصباح؟,بقداش فطور الصباح ؟,adv_interrog noun noun punc,4
+27,Tunis,كيفاش انجم نعاونك؟,كيفاش انجم نعاونك ؟,adv_interrog verb verb punc,4
+29,Tunis,هيا نمشيو ناكلوا قدمة.,هيا نمشيو ناكلوا قدمة .,interj verb verb noun punc,5
+30,Tunis,دور الدورة الثالثة عاليسار.,دور الدورة الثالثة عاليسار .,verb noun adj noun punc,5
+31,Tunis,ميسالش تنضف الحوايج هاذوما؟,ميسالش تنضف الحوايج هاذوما ؟,part verb noun pron_dem punc,5
+37,Tunis,نعطيك نومرو التاليفون و الادريسة هاذوما.,نعطيك نومرو التاليفون و الادريسة هاذوما .,verb noun noun conj noun pron_dem punc,7
+38,Tunis,خلصت الماكلة و الوتيل بالمسبق.,خلصت الماكلة و الوتيل بالمسبق .,verb noun conj noun adj punc,6
+40,Tunis,نلوج في مشوى باهي و هادي. تنجم توريني وين عالخريطة هاذي؟,نلوج في مشوى باهي و هادي . تنجم توريني وين عالخريطة هاذي ؟,verb prep noun adj conj adj punc verb verb adv_interrog noun pron_dem punc,13
+42,Tunis,الي يكسر حاجة يشريها.,الي يكسر حاجة يشريها .,pron_rel verb noun verb punc,5
+46,Tunis,تو نقلها تكلمك دوب ما تروح.,تو نقلها تكلمك دوب ما تروح .,part_fut verb verb conj_sub conj_sub verb punc,7
+50,Tunis,تحب كريمة و سكر في قهوتك؟,تحب كريمة و سكر في قهوتك ؟,verb noun conj noun prep noun punc,7
+51,Tunis,جروحها خطيرة.,جروحها خطيرة .,noun adj punc,3
+52,Tunis,نحب بريكية.,نحب بريكية .,verb noun punc,3
+53,Tunis,الوتيل هذا فيه تجهيزات لكونفرونس؟,الوتيل هذا فيه تجهيزات لكونفرونس ؟,noun pron_dem noun noun noun punc,6
+56,Tunis,ميسالش نعملو تحريشة و برا؟,ميسالش نعملو تحريشة و برا ؟,interj verb noun conj noun punc,6
+57,Tunis,نكلم فيك مالمطار. نوصل لغادي مع الاربعة.,نكلم فيك مالمطار . نوصل لغادي مع الاربعة .,verb prep noun punc verb adv prep noun_num punc,9
+62,Tunis,منين نحول لشيكاغو؟,منين نحول لشيكاغو ؟,adv_interrog verb noun_prop punc,4
+63,Tunis,بقداش جواب مصوقر لفرانسا؟,بقداش جواب مصوقر لفرانسا ؟,adv_interrog noun adj noun_prop punc,5
+64,Tunis,تنجم تصبلي ها الشاك بميتين دولار متاعي؟,تنجم تصبلي ها الشاك بميتين دولار متاعي ؟,verb verb pron_dem noun noun_num noun noun punc,8
+68,Tunis,فما فرق كبير كيف تسوق عاليمين.,فما فرق كبير كيف تسوق عاليمين .,part noun adj adv_rel verb noun punc,7
+69,Tunis,الممثل هذا طيارة بالحق.,الممثل هذا طيارة بالحق .,noun pron_dem noun adv punc,5
+72,Tunis,وينو الجزء متاع الكتب اللي ميش ادبية؟,وينو الجزء متاع الكتب اللي ميش ادبية ؟,adv_interrog noun noun noun pron_rel part_neg adj punc,8
+74,Tunis,لو لازم يضهر، كلمني عيشك.,لو لازم يضهر ، كلمني عيشك .,conj_sub verb verb punc verb noun punc,7
+78,Tunis,ممكن تبدللي بقعتي؟,ممكن تبدللي بقعتي ؟,adj verb noun punc,4
+79,Tunis,فما قارانطي؟,فما قارانطي ؟,part noun punc,3
+83,Tunis,سامحني، تو نتلهى بالكلب.,سامحني ، تو نتلهى بالكلب .,verb punc part_fut verb noun punc,6
+84,Tunis,اعطيني زوز تساكر متاع قطاطس، للخميس هذا.,اعطيني زوز تساكر متاع قطاطس ، للخميس هذا .,verb noun_num noun noun noun_prop punc noun pron_dem punc,9
+86,Tunis,ويني القهوة؟,ويني القهوة ؟,adv_interrog noun punc,3
+87,Tunis,نحب مريول متاع صغار.,نحب مريول متاع صغار .,verb noun noun noun punc,5
+89,Tunis,تنجم تعاودلي اسمك؟,تنجم تعاودلي اسمك ؟,verb verb noun punc,4
+90,Tunis,سي براون موجود؟,سي براون موجود ؟,abbrev noun_prop adj punc,4
+91,Tunis,باهي. مراسلة عادية بخمسة و ثمانين سنت وزايدة تلاثة دولارات بالضبط للمراسلة اللي من النوع لبخاص.,باهي . مراسلة عادية بخمسة و ثمانين سنت وزايدة تلاثة دولارات بالضبط للمراسلة من النوع لبخاص .,interj punc noun adj noun_num conj noun_num noun adj noun_num noun adv noun prep noun adj punc,17
+92,Tunis,انجم نكري بطو على نهار؟,انجم نكري بطو على نهار ؟,verb verb noun prep noun punc,6
+93,Tunis,في انا شباك انجم نعمل حجز؟,في انا شباك انجم نعمل حجز ؟,prep pron noun verb verb noun punc,7
+94,Tunis,شنوة هاذاكا؟,شنوة هاذاكا ؟,pron_interrog pron_dem punc,3
+96,Tunis,تقلي كيفاش نمشي للاوبرا يعيشك؟,تقلي كيفاش نمشي للاوبرا يعيشك ؟,verb adv_interrog verb noun_prop interj punc,6
+97,Tunis,موش كاينك سكرت شوية البارح، يا عزيزي؟,موش كاينك سكرت شوية البارح ، يا عزيزي ؟,part_neg verb verb noun noun punc part_voc adj punc,9
+98,Tunis,عيشكم تبعو تعليمات الموضفين متاعنا.,عيشكم تبعو تعليمات الموضفين متاعنا .,noun verb noun noun noun punc,6
+100,Tunis,فما حانوت شامل قريب من هنا؟,فما حانوت شامل قريب من هنا ؟,part noun adj adj prep adv punc,7
+102,Tunis,عبيهولي للفم، عيشك.,عبيهولي للفم ، عيشك .,verb noun punc interj punc,5
+103,Tunis,فما بيت ارخص؟,فما بيت ارخص ؟,part noun adj punc,4
+104,Tunis,نفضل كرهبة اوتوماتيك.,نفضل كرهبة اوتوماتيك .,verb noun adj punc,4
+105,Tunis,باش نقعد في مبيت جامعة هارفارد.,باش نقعد في مبيت جامعة هارفارد .,part verb prep noun noun noun_prop punc,7
+106,Tunis,شنية القيمة اليوم؟,شنية القيمة اليوم ؟,pron_interrog noun noun punc,4
+108,Tunis,مريض بضيق النفس المزمن.,مريض بضيق النفس المزمن .,adj noun noun adj punc,5
+109,Tunis,عندي تقريبا تلاثة لاف دولار.,عندي تقريبا تلاثة لاف دولار .,prep adv noun_num noun_num noun punc,6
+111,Tunis,باهي، يا سيدي. نحطلك معاه فريت ولا روز. شنوة تحب؟,باهي ، يا سيدي . نحطلك معاه فريت ولا روز . شنوة تحب ؟,interj punc part_voc noun punc verb prep noun conj noun punc pron_interrog verb punc,14
+112,Tunis,كيفاش نمشي للبلاصة هاذي؟,كيفاش نمشي للبلاصة هاذي ؟,adv_interrog verb noun pron_dem punc,5
+113,Tunis,شنية نوعها القصة هاذي؟,شنية نوعها القصة هاذي ؟,pron_interrog noun noun pron_dem punc,5
+115,Tunis,تلاثة مرات.,تلاثة مرات .,noun_num noun punc,3
+116,Tunis,انا هو الشباك اللي يبيع التنابر؟,انا هو الشباك اللي يبيع التنابر ؟,pron pron noun pron_rel verb noun punc,7
+117,Tunis,بعد ما هجم علي، هرب في كميونة بيضة.,بعد ما هجم علي ، هرب في كميونة بيضة .,noun conj_sub verb prep punc verb prep noun adj punc,10
+119,Tunis,باهي. خلي عندك التيكة هاذي و جيبها معاك كيف تجي بش تهزو.,باهي . خلي عندك التيكة هاذي و جيبها معاك كيف تجي بش تهزو .,interj punc verb prep noun pron_dem conj verb prep conj_sub verb conj_sub verb punc,14
+120,Tunis,انا في بلاصتك نشريه.,انا في بلاصتك نشريه .,pron prep noun verb punc,5
+122,Tunis,ميتين دولار. فلوس ولا كارطة؟,ميتين دولار . فلوس ولا كارطة ؟,noun_num noun punc noun conj noun punc,7
+125,Tunis,قداش يلزم وقت عبور هاذي البركة؟,قداش يلزم وقت عبور هاذي البركة ؟,adv_interrog verb noun noun pron_dem noun punc,7
+128,Tunis,فما ماكلة ما يلزمش ناكلها و انا نشرب في الدواء هذا؟,فما ماكلة ما يلزمش ناكلها و انا نشرب في الدواء هذا ؟,part noun part_neg verb verb conj pron verb prep noun pron_dem punc,12
+129,Tunis,باش نلقى مشكلة مع الديوانة؟,باش نلقى مشكلة مع الديوانة ؟,part verb noun prep noun punc,6
+130,Tunis,تبيعو صبابط رسمية يكونو واسعين من شيرة الصوابع؟,تبيعو صبابط رسمية يكونو واسعين من شيرة الصوابع ؟,verb noun adj verb adj prep noun noun punc,9
+131,Tunis,من فضلك شوية شراب احمر؟,من فضلك شوية شراب احمر ؟,prep noun noun noun adj punc,6
+133,Tunis,قلي كيف نوصلو للمتحف.,قلي كيف نوصلو للمتحف .,verb adv_interrog verb noun punc,5
+134,Tunis,الكار هاذي تمشي لوتيل الشيراتون؟,الكار هاذي تمشي لوتيل الشيراتون ؟,noun pron_dem verb noun noun_prop punc,6
+135,Tunis,قداش يطلعو؟,قداش يطلعو ؟,adv_interrog verb punc,3
+136,Tunis,الدنية سخونة شوية. ميسالش نحل الشباك؟,الدنية سخونة شوية . ميسالش نحل الشباك ؟,noun adj noun punc part verb noun punc,8
+138,Tunis,دوش يزي.,دوش يزي .,noun verb punc,3
+139,Tunis,عينيا حمر.,عينيا حمر .,noun adj punc,3
+140,Tunis,لا. تحب بيت فيها زوز فروشات نحسبوها لشخص برك؟ عنا وحدة.,لا . تحب بيت فيها زوز فروشات نحسبوها لشخص برك ؟ عنا وحدة .,part_neg punc verb noun prep noun_num noun verb noun adv punc prep noun punc,14
+142,Tunis,ما انجمش نضمنلك، اما تو نعملو اللي انجمو.,ما انجمش نضمنلك ، اما تو نعملو اللي انجمو .,part_neg verb verb punc conj adv verb pron_rel verb punc,10
+143,Tunis,نحب برمانونت قوية، عيشك.,نحب برمانونت قوية ، عيشك .,verb noun adj punc noun punc,6
+144,Tunis,البحر كان يترا من بعيد تحتنا.,البحر كان يترا من بعيد تحتنا .,noun verb_pseudo verb prep adj prep punc,7
+145,Tunis,تحب كعبة بيرا.,تحب كعبة بيرا .,verb noun noun punc,4
+146,Tunis,يلزمك عملية.,يلزمك عملية .,verb noun punc,3
+147,Tunis,زيدني عضم، عيشك.,زيدني عضم ، عيشك .,verb noun punc interj punc,5
+148,Tunis,ويني محطة الكيران اللي تهز لسونترال بارك؟,ويني محطة الكيران اللي تهز لسونترال بارك ؟,adv_interrog noun noun pron_rel verb noun_prop noun_prop punc,8
+149,Tunis,تكسيات؟,تكسيات ؟,noun punc,2
+151,Tunis,تفضل مفتاحك، سيدي. بيت ستة و خمسين اثناش.,تفضل مفتاحك ، سيدي . بيت ستة و خمسين اثناش .,verb noun punc noun punc noun noun_num conj noun_num noun_num punc,11
+153,Tunis,محلاه مريولك.,محلاه مريولك .,interj noun punc,3
+154,Tunis,تفضل.,تفضل .,verb punc,2
+155,Tunis,وصلنا. هذا الوتيل متاعك.,وصلنا . هذا الوتيل متاعك .,verb punc pron_dem noun prep punc,6
+156,Tunis,وقتاش يبدا طرح الباسكات؟,وقتاش يبدا طرح الباسكات ؟,adv_interrog verb noun noun punc,5
+157,Tunis,صباح الخير. لاباس؟,صباح الخير . لاباس ؟,noun noun punc adj punc,5
+158,Tunis,سامحني لازمني نشوف اوراقك.,سامحني لازمني نشوف اوراقك .,verb verb verb noun punc,5
+159,Tunis,شنوة كان انطباعك؟,شنوة كان انطباعك ؟,part_interrog verb_pseudo noun punc,4
+160,Tunis,بالطبيعة. تحب قهوتك مع العشاء ولا بعد؟,بالطبيعة . تحب قهوتك مع العشاء ولا بعد ؟,noun punc verb noun prep noun conj noun punc,9
+161,Tunis,باش نسافر في الرحلة اثناش لطوكيو.,باش نسافر في الرحلة اثناش لطوكيو .,part verb prep noun noun_num noun_prop punc,7
+162,Tunis,نحب نعمل تلفون للخارج، عيشك.,نحب نعمل تلفون للخارج ، عيشك .,verb verb noun noun punc interj punc,7
+5,Jerusalem,هناك، قدام مكتب استعلامات السياح بالزبط.,هناك ، قدام مكتب استعلامات السياح بالزبط .,adv punc prep noun noun noun adv punc,8
+9,Jerusalem,عمري ما سمعت هدا العنوان هون.,عمري ما سمعت هدا العنوان هون .,noun part_neg verb pron_dem noun adv punc,7
+11,Jerusalem,خليك ماشي دغري لتلاقي صيدلية.,خليك ماشي دغري لتلاقي صيدلية .,verb adv adv verb noun punc,6
+26,Jerusalem,قديش الفطور؟,قديش الفطور ؟,adv_interrog noun punc,3
+27,Jerusalem,كيف بقدر أساعدك؟,كيف بقدر أساعدك ؟,adv_interrog verb verb punc,4
+30,Jerusalem,روح شمال عند الكورنر التالتة.,روح شمال عند الكورنر التالتة .,verb adv prep noun adj punc,6
+50,Jerusalem,بتحب السكر و الكريمة مع قهوتك؟,بتحب السكر و الكريمة مع قهوتك ؟,verb noun conj noun prep noun punc,7
+64,Jerusalem,بتقدر تصرفلي شك الميتين دولار تبعي؟,بتقدر تصرفلي شك الميتين دولار تبعي ؟,verb verb noun noun_num noun noun punc,7
+74,Jerusalem,ازا لازم يظهر، احكي معي.,ازا لازم يظهر ، احكي معي .,conj_sub adv verb punc verb prep punc,7
+86,Jerusalem,وين الكوفي شوب؟,وين الكوفي شوب ؟,adv_interrog noun noun punc,4
+87,Jerusalem,بدي جرزة أطفال.,بدي جرزة أطفال .,verb noun noun punc,4
+91,Jerusalem,طيب. بتكلف خمسة و تمانين سنت للبريد العادي و تلات دولارات بالزبط اضافية للتوصيل الخاص.,طيب . بتكلف خمسة و تمانين سنت للبريد العادي و تلات دولارات بالزبط اضافية للتوصيل الخاص .,interj punc verb noun_num conj noun_num noun noun adj conj noun_num noun adv adj noun adj punc,17
+120,Jerusalem,لو كنت مكانك بشتريه.,لو كنت مكانك بشتريه .,conj_sub verb noun verb punc,5
+129,Jerusalem,رح ألاقي صعوبات في الجمارك؟,رح ألاقي صعوبات في الجمارك ؟,part_fut verb noun prep noun punc,6
+130,Jerusalem,في عندك كندرة رسمي عريضة؟,في عندك كندرة رسمي عريضة ؟,part prep noun adj adj punc,6
+140,Jerusalem,لأ. تاخد غرفة بتختين لاستعمال واحد؟ في عنا واحدة.,لأ . تاخد غرفة بتختين لاستعمال واحد ؟ في عنا واحدة .,part_neg punc verb noun noun noun noun_num punc prep prep noun_num punc,12
+143,Jerusalem,بدي كيرلي صغير، لو سمحت.,بدي كيرلي صغير ، لو سمحت .,verb noun adj punc conj_sub verb punc,7
+145,Jerusalem,بدها بيرة.,بدها بيرة .,verb noun punc,3
+157,Jerusalem,صباح الخير. كيف حالك؟,صباح الخير . كيف حالك ؟,noun noun punc adv_interrog noun punc,6
+158,Jerusalem,متأسف محتاج اني أشوف بطاقة الهوية.,متأسف محتاج اني أشوف بطاقة الهوية .,adj adj conj_sub verb noun noun punc,7
+169,Jerusalem,شو نوع الصوص؟,شو نوع الصوص ؟,pron_interrog noun noun punc,4
+170,Jerusalem,هدا بارد شوي. بتقدر تسخنه؟,هدا بارد شوي . بتقدر تسخنه ؟,pron_dem adj adv punc verb verb punc,7
+173,Jerusalem,متأسف، هدا المكان محجوز.,متأسف ، هدا المكان محجوز .,adj punc pron_dem noun adj punc,6
+176,Jerusalem,أنا منيح. بس بتقدر تكلملي صاحبي؟,أنا منيح . بس بتقدر تكلملي صاحبي ؟,pron adj punc adv verb verb noun punc,8
+177,Jerusalem,شكرا، هيك بكفي.,شكرا ، هيك بكفي .,interj punc adv verb punc,5
+184,Jerusalem,مين صاحبك المفضل؟,مين صاحبك المفضل ؟,pron_interrog noun adj punc,4
+187,Jerusalem,يوم الصحة و الرياضة العالمي في العاشر من اكتوبر هو يوم وطني مخصص للتوعية بصحة الناس.,يوم الصحة و الرياضة العالمي في العاشر من اكتوبر هو يوم وطني مخصص للتوعية بصحة الناس .,noun noun conj noun adj prep adj prep noun_prop pron noun adj adj noun noun noun punc,17
+192,Jerusalem,بدك ياني أفحص تحت غطا السيارة؟,بدك ياني أفحص تحت غطا السيارة ؟,verb pron verb noun noun noun punc,7
+206,Jerusalem,بتقدر تساعدني ألاقي شنتتي؟,بتقدر تساعدني ألاقي شنتتي ؟,verb verb verb noun punc,5
+221,Jerusalem,بتعمل الترتيبات قبل بوقت؟,بتعمل الترتيبات قبل بوقت ؟,verb noun noun noun punc,5
+238,Jerusalem,عم بساعدوني. شكرا الك.,باش بساعدوني . شكرا الك .,part verb punc interj prep punc,6
+261,Jerusalem,لما توصل هناك، اسأل حدا تاني، لو سمحت.,لما توصل هناك ، اسأل حدا تاني ، لو سمحت .,conj_sub verb adv punc verb noun adj punc conj_sub verb punc,11
+280,Jerusalem,بدي التحويلة رقم أربعة و عشرين، لو سمحت.,بدي التحويلة رقم أربعة و عشرين ، لو سمحت .,verb noun noun noun_num conj noun_num punc conj_sub verb punc,10
+285,Jerusalem,هي دولارين. خلي الباقي معك.,هي دولارين . خلي الباقي معك .,pron noun punc verb noun prep punc,7
+315,Jerusalem,واحد هامبرغر وواحد برغر مع جبنة، لو سمحت.,واحد هامبرغر وواحد برغر مع جبنة ، لو سمحت .,noun_num noun noun_num noun prep noun punc conj_sub verb punc,10
+319,Jerusalem,قديش بتاخد على العملية؟,قديش بتاخد على العملية ؟,adv_interrog verb prep noun punc,5
+320,Jerusalem,كل واحد فينا بدو يدفع عن وجبتو.,كل واحد فينا بدو يدفع عن وجبتو .,part noun prep verb verb prep noun punc,8
+326,Jerusalem,الموقع كان على كرسي في اللوبي.,الموقع كان على كرسي في اللوبي .,noun verb_pseudo prep noun prep noun punc,7
+333,Jerusalem,لو سمحت اصرفلي الين لجنيهات.,لو سمحت اصرفلي الين لجنيهات .,conj_sub verb verb noun noun punc,6
+346,Jerusalem,بدي قاموس جيبة، لو سمحت.,بدي قاموس جيبة ، لو سمحت .,verb noun noun punc conj_sub verb punc,7
+360,Jerusalem,لشخصين على الساعة سبعة. باسم واتانبي.,لشخصين على الساعة سبعة . باسم واتانبي .,noun prep noun noun_num punc noun noun_prop punc,8
+368,Jerusalem,ساعتي. نوعها سيكو و ديجيتال.,ساعتي . نوعها سيكو و ديجيتال .,noun punc noun noun_prop conj adj punc,7
+370,Jerusalem,بنتشرف انا نعطيك مشروب من زوقك، وبعدو العشا. دليل كامل للمشروبات يلي بنقدمها على هاي الرحلة موجود في دليل المعلومات في مجلتنا.,بنتشرف انا نعطيك مشروب من زوقك ، وبعدو العشا . دليل كامل للمشروبات يلي بنقدمها على هاي الرحلة موجود في دليل المعلومات في مجلتنا .,verb pron verb noun prep noun punc conj noun punc noun adj noun pron_rel verb prep pron_dem noun adj prep noun noun prep noun punc,25
+373,Jerusalem,انت ساكن هون؟,انت ساكن هون ؟,pron adj adv punc,4
+375,Jerusalem,وين محل الهدايا؟,وين محل الهدايا ؟,adv_interrog noun noun punc,4
+386,Jerusalem,أنا على أوتوستراد رقم واحد جنب خليج مورو.,أنا على أوتوستراد رقم واحد جنب خليج مورو .,pron prep noun noun noun_num prep noun noun_prop punc,9
+391,Jerusalem,بدي منبه، لو سمحت.,بدي منبه ، لو سمحت .,verb noun punc conj_sub verb punc,6
+398,Jerusalem,على فكرة، اسمي هيروشي ايجيما.,على فكرة ، اسمي هيروشي ايجيما .,prep noun punc noun noun_prop noun_prop punc,7
+401,Jerusalem,هدا القطار بوقف عند ليك فوريست، صح؟,هدا القطار بوقف عند ليك فوريست ، صح ؟,pron_dem noun verb prep noun_prop noun_prop punc adj punc,9
+408,Jerusalem,أغلب اليابانيين بياكلو الأخطبوط و الحبار.,أغلب اليابانيين بياكلو الأخطبوط و الحبار .,adj noun verb noun conj noun punc,7
+416,Jerusalem,بقدر أحجز تزكرتين درجة تانية لشيكاغو، لو سحمت؟,بقدر أحجز تزكرتين درجة تانية لشيكاغو ، لو سحمت ؟,verb verb noun noun adj noun_prop punc conj_sub verb punc,10
+419,Jerusalem,رحت على نيو يورك.,رحت على نيو يورك .,verb prep noun_prop noun_prop punc,5
+423,Jerusalem,شو رقم الرحلة؟,شو رقم الرحلة ؟,part_interrog noun noun punc,4
+442,Jerusalem,وحدة لنيو يورك، لو سمحت.,وحدة لنيو يورك ، لو سمحت .,noun noun_prop noun_prop punc conj_sub verb punc,7
+446,Jerusalem,لأكم من يوم.,لأكم من يوم .,adv_interrog prep noun punc,4
+447,Jerusalem,التاني على الشمال.,التاني على الشمال .,adj prep noun punc,4
+471,Jerusalem,هدا الكرت، منيح؟,هدا الكرت ، منيح ؟,pron_dem noun punc adj punc,5
+488,Jerusalem,هون مكتب الاستقبال؟ في عيادة قريبة؟,هون مكتب الاستقبال ؟ في عيادة قريبة ؟,adv noun noun punc prep noun adj punc,8
+493,Jerusalem,بكفو عشرة دولارات للتكسي؟,بكفو عشرة دولارات للتكسي ؟,verb noun_num noun noun punc,5
+503,Jerusalem,طعمو غريب.,طعمو غريب .,noun adj punc,3
+512,Jerusalem,أه. استنى، رح أجيبلك واحد.,أه . استنى ، رح أجيبلك واحد .,interj punc verb punc part_fut verb noun punc,8
+516,Jerusalem,نص قنينة، لو سمحت.,نص قنينة ، لو سمحت .,noun noun punc conj_sub verb punc,6
+540,Jerusalem,مش مزبوط. أي اشي مش غالي.,مش مزبوط . أي اشي مش غالي .,part_neg adj punc part noun part_neg adj punc,8
+548,Jerusalem,عم بتدور على اشي؟,باش بتدور على اشي ؟,part verb prep noun punc,5
+551,Jerusalem,أربع ليالي.,أربع ليالي .,noun_num noun punc,3
+553,Jerusalem,بدي شوية جرابات.,بدي شوية جرابات .,verb noun noun punc,4
+565,Jerusalem,بتقدر ترخصها عشان عليها شوية بقع؟,بتقدر ترخصها عشان عليها شوية بقع ؟,verb verb prep prep noun noun punc,7
+571,Jerusalem,زلمة خبط في. و بعدين اكتشفت انه جزداني انسرق.,زلمة خبط في . و بعدين اكتشفت انه جزداني انسرق .,noun verb prep punc conj adv verb pron_rel noun verb punc,11
+599,Jerusalem,مش متأكدة ازا حضرت أواعي كفاية لرحلة تلات أسابيع.,مش متأكدة ازا حضرت أواعي كفاية لرحلة تلات أسابيع .,part_neg adj conj_sub verb noun adj noun noun_num noun punc,10
+612,Jerusalem,طيب، حابين نجرب نبيد أبيض.,طيب ، حابين نجرب نبيد أبيض .,interj punc verb verb noun adj punc,7
+631,Jerusalem,ازا حدا سأل عني، احكيلهم رح أكون في الكوفي شوب.,ازا حدا سأل عني ، احكيلهم رح أكون في الكوفي شوب .,conj_sub noun verb prep punc verb part_fut verb prep noun noun punc,12
+632,Jerusalem,متأكد انه كان في الجيبة الجوانية للكبوت.,متأكد انه كان في الجيبة الجوانية للكبوت .,adj conj_sub verb prep noun adj noun punc,8
+641,Jerusalem,بقدر أعرف اسم و رقم الحفلة يلي بدك ياها؟,بقدر أعرف اسم و رقم الحفلة يلي بدك ياها ؟,verb verb noun conj noun noun pron_rel verb pron punc,10
+643,Jerusalem,رح تدفعلي شركة الطيران عشان أشتري احتياجاتي الأساسية؟,رح تدفعلي شركة الطيران عشان أشتري احتياجاتي الأساسية ؟,part_fut verb noun noun prep verb noun adj punc,9
+650,Jerusalem,بدي غرفة مع حمام.,بدي غرفة مع حمام .,verb noun prep noun punc,5
+652,Jerusalem,ما طلع اشي من الماكنة؟,ما طلع اشي من الماكنة ؟,part_neg verb noun prep noun punc,6
+667,Jerusalem,كان المفروض تسافر بالرحلة تمنية اتنين صفر، يلي طلعت من ربع ساعة. طيب. بقدر أزبطلك رحلة تانية.,كان المفروض تسافر بالرحلة تمنية اتنين صفر ، يلي طلعت من ربع ساعة . طيب . بقدر أزبطلك رحلة تانية .,verb_pseudo noun verb noun noun_num noun_num noun_num punc pron_rel verb prep noun noun punc interj punc verb verb noun adj punc,21
+673,Jerusalem,في حدا فضالي الصندوق.,في حدا فضالي الصندوق .,prep noun noun noun punc,5
+679,Jerusalem,اوه، ولا اشي. انت هون، على كل حال.,اوه ، ولا اشي . انت هون ، على كل حال .,interj punc part_neg noun punc pron adv punc prep noun noun punc,12
+680,Jerusalem,الطيران الياباني، رحلة رقم واحد اتنين تلاتة.,الطيران الياباني ، رحلة رقم واحد اتنين تلاتة .,noun adj punc noun noun noun_num noun_num noun_num punc,9
+681,Jerusalem,بدي أشتري شامبو.,بدي أشتري شامبو .,verb verb noun punc,4
+683,Jerusalem,بتقدر تحكيلي ايمتا بنوصل على المركز المدني؟,بتقدر تحكيلي ايمتا بنوصل على المركز المدني ؟,verb verb adv_interrog verb prep noun adj punc,8
+688,Jerusalem,وين بلاقي أقرب لحام؟,وين بلاقي أقرب لحام ؟,adv_interrog verb adj noun punc,5
+703,Jerusalem,بدنا نضل لأربع ليالي من أول أغسطس.,بدنا نضل لأربع ليالي من أول أغسطس .,verb verb noun_num noun prep adj noun_prop punc,8
+708,Jerusalem,شو اسم هديك الوردة؟,شو اسم هديك الوردة ؟,adv_interrog noun pron_dem noun punc,5
+719,Jerusalem,خمستاعش سبتمبر هو يوم احترام الشيخوخة.,خمستاعش سبتمبر هو يوم احترام الشيخوخة .,noun_num noun_prop pron noun noun noun punc,7
+723,Jerusalem,ما في صابونة في غرفتي.,ما في صابونة في غرفتي .,part_neg part noun prep noun punc,6
+741,Jerusalem,في اشي بقدر أخدو لهدا الحب؟,في اشي بقدر أخدو لهدا الحب ؟,part noun verb verb pron_dem noun punc,7
+742,Jerusalem,بتقدر تغيير شو حكيت هلأ؟,بتقدر تغيير شو حكيت هلأ ؟,verb noun pron_rel verb adv punc,6
+761,Jerusalem,قديش الطلب بياخد وقت؟,قديش الطلب بياخد وقت ؟,adv_interrog noun verb noun punc,5
+773,Jerusalem,ممكن تعلي صوتك، لو سمحت؟,ممكن تعلي صوتك ، لو سمحت ؟,adj verb noun punc conj_sub verb punc,7
+777,Jerusalem,قديش بدها وقت قبل ما تجهز؟,قديش بدها وقت قبل ما تجهز ؟,adv_interrog verb noun noun conj_sub verb punc,7
+786,Jerusalem,وين معلومات الرياضة؟,وين معلومات الرياضة ؟,adv_interrog noun noun punc,4
+787,Jerusalem,هدا القياس، يلي بتحكيلو القياس العادي، بيزبط.,هدا القياس ، يلي بتحكيلو القياس العادي ، بيزبط .,pron_dem noun punc pron_rel verb noun adj punc verb punc,10
+793,Jerusalem,وين رح تخلص الجولة، و ايمتا؟,وين رح تخلص الجولة ، و ايمتا ؟,adv_interrog part_fut verb noun punc conj adv_interrog punc,8
+848,Jerusalem,وين لازم أغير القطارات عشان أوصل لايدنبيره؟,وين لازم أغير القطارات عشان أوصل لايدنبيره ؟,adv_interrog adj verb noun prep verb noun_prop punc,8
+855,Jerusalem,حابب أحط هدا في صندوق أمانات.,حابب أحط هدا في صندوق أمانات .,verb verb pron_dem prep noun noun punc,7
+859,Jerusalem,وين بقدر أغير المصاري؟,وين بقدر أغير المصاري ؟,adv_interrog verb verb noun punc,5
+897,Jerusalem,بنقدر نترك أغراضنا، ما عدا الغالية، في الباص؟,بنقدر نترك أغراضنا ، ما عدا الغالية ، في الباص ؟,verb verb noun punc prep prep adj punc prep noun punc,11
+902,Jerusalem,مش عارف الرسوم يلي بفاتورتي لشو.,مش عارف الرسوم يلي بفاتورتي لشو .,part_neg adj noun pron_rel noun part_interrog punc,7
